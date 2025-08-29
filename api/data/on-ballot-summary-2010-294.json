@@ -1,0 +1,36 @@
+[
+  {
+    "districtCode": 0,
+    "filerName": "Benson, Jennifer",
+    "id": 0,
+    "cpfId": 14768,
+    "reportYear": 0,
+    "isIncumbent": true,
+    "partyAffiliation": "Democratic",
+    "partyAffiliationAbbreviation": "D",
+    "isWinner": true,
+    "receipts": "$54,053.00",
+    "expenditures": "$55,271.26",
+    "inkinds": "$4,558.44",
+    "liabilities": "$0.00",
+    "startBalance": "$21,319.09",
+    "endBalance": "$20,100.83"
+  },
+  {
+    "districtCode": 0,
+    "filerName": "Hayes, Kurt",
+    "id": 0,
+    "cpfId": 14818,
+    "reportYear": 0,
+    "isIncumbent": false,
+    "partyAffiliation": "Republican",
+    "partyAffiliationAbbreviation": "R",
+    "isWinner": false,
+    "receipts": "$36,226.22",
+    "expenditures": "$44,417.32",
+    "inkinds": "$1,425.00",
+    "liabilities": "$0.00",
+    "startBalance": "$8,349.03",
+    "endBalance": "$182.93"
+  }
+]

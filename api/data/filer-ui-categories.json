@@ -1,0 +1,107 @@
+[
+  {
+    "value": "A",
+    "text": "All Registered Filers",
+    "isSelected": false
+  },
+  {
+    "value": "C",
+    "text": "All Candidates",
+    "isSelected": false
+  },
+  {
+    "value": "SW",
+    "text": " \u2022 Statewide",
+    "isSelected": false
+  },
+  {
+    "value": "U",
+    "text": " \u2022 Legislative",
+    "isSelected": false
+  },
+  {
+    "value": "SE",
+    "text": " \u2022\u2022 Senate",
+    "isSelected": false
+  },
+  {
+    "value": "HO",
+    "text": " \u2022\u2022 House",
+    "isSelected": false
+  },
+  {
+    "value": "M",
+    "text": " \u2022 Mayoral",
+    "isSelected": false
+  },
+  {
+    "value": "CC",
+    "text": " \u2022 City Council",
+    "isSelected": false
+  },
+  {
+    "value": "GC",
+    "text": " \u2022 Governor's Council",
+    "isSelected": false
+  },
+  {
+    "value": "CJ",
+    "text": " \u2022 County &amp; Judicial",
+    "isSelected": false
+  },
+  {
+    "value": "AP",
+    "text": "All PACs",
+    "isSelected": false
+  },
+  {
+    "value": "P",
+    "text": " \u2022 Traditional PACs",
+    "isSelected": false
+  },
+  {
+    "value": "I",
+    "text": " \u2022 IE PACs",
+    "isSelected": false
+  },
+  {
+    "value": "Y",
+    "text": " \u2022 People's Committees",
+    "isSelected": false
+  },
+  {
+    "value": "L",
+    "text": "Local Party Committees",
+    "isSelected": false
+  },
+  {
+    "value": "DL",
+    "text": " \u2022 Democratic",
+    "isSelected": false
+  },
+  {
+    "value": "RL",
+    "text": " \u2022 Republican",
+    "isSelected": false
+  },
+  {
+    "value": "OL",
+    "text": " \u2022 Other Party",
+    "isSelected": false
+  },
+  {
+    "value": "X",
+    "text": "Ballot Question Committees",
+    "isSelected": false
+  },
+  {
+    "value": "B",
+    "text": "Banks",
+    "isSelected": false
+  },
+  {
+    "value": "V",
+    "text": "Segregated Accounts",
+    "isSelected": false
+  }
+]

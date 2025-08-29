@@ -1,0 +1,2557 @@
+[
+  {
+    "office": "House",
+    "code": 201,
+    "description": "1st Barnstable",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Governor's Council",
+    "code": 1101,
+    "description": "1st District",
+    "incumbentName": "",
+    "officeTypeGroupId": 4
+  },
+  {
+    "office": "Statewide",
+    "code": 1109,
+    "description": "Governor",
+    "incumbentName": "",
+    "officeTypeGroupId": 3
+  },
+  {
+    "office": "House",
+    "code": 202,
+    "description": "2nd Barnstable",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Governor's Council",
+    "code": 1102,
+    "description": "2nd District",
+    "incumbentName": "",
+    "officeTypeGroupId": 4
+  },
+  {
+    "office": "Statewide",
+    "code": 1110,
+    "description": "Lieutenant Governor",
+    "incumbentName": "",
+    "officeTypeGroupId": 3
+  },
+  {
+    "office": "Senate",
+    "code": 157,
+    "description": "Berkshire, Hampden, Franklin and Hampshire",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 203,
+    "description": "3rd Barnstable",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Governor's Council",
+    "code": 1103,
+    "description": "3rd District",
+    "incumbentName": "",
+    "officeTypeGroupId": 4
+  },
+  {
+    "office": "Statewide",
+    "code": 1111,
+    "description": "Attorney General",
+    "incumbentName": "",
+    "officeTypeGroupId": 3
+  },
+  {
+    "office": "Senate",
+    "code": 142,
+    "description": "Bristol & Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 296,
+    "description": "4th Barnstable",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Governor's Council",
+    "code": 1104,
+    "description": "4th District",
+    "incumbentName": "",
+    "officeTypeGroupId": 4
+  },
+  {
+    "office": "Statewide",
+    "code": 1112,
+    "description": "Secretary of State",
+    "incumbentName": "",
+    "officeTypeGroupId": 3
+  },
+  {
+    "office": "Senate",
+    "code": 143,
+    "description": "1st Bristol & Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 361,
+    "description": "5th Barnstable",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Governor's Council",
+    "code": 1105,
+    "description": "5th District",
+    "incumbentName": "",
+    "officeTypeGroupId": 4
+  },
+  {
+    "office": "Statewide",
+    "code": 1113,
+    "description": "Treasurer of the Commonwealth",
+    "incumbentName": "",
+    "officeTypeGroupId": 3
+  },
+  {
+    "office": "Municipal",
+    "code": 3000,
+    "description": "Local Filer",
+    "incumbentName": "",
+    "officeTypeGroupId": 11
+  },
+  {
+    "office": "Senate",
+    "code": 144,
+    "description": "2nd Bristol & Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 204,
+    "description": "Barnstable, Dukes & Nantucket",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Governor's Council",
+    "code": 1106,
+    "description": "6th District",
+    "incumbentName": "",
+    "officeTypeGroupId": 4
+  },
+  {
+    "office": "Statewide",
+    "code": 1114,
+    "description": "Auditor",
+    "incumbentName": "",
+    "officeTypeGroupId": 3
+  },
+  {
+    "office": "Senate",
+    "code": 170,
+    "description": "3rd Bristol and Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 205,
+    "description": "1st Berkshire",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Governor's Council",
+    "code": 1107,
+    "description": "7th District",
+    "incumbentName": "",
+    "officeTypeGroupId": 4
+  },
+  {
+    "office": "Senate",
+    "code": 105,
+    "description": "Cape & Islands",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 206,
+    "description": "2nd Berkshire",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Governor's Council",
+    "code": 1108,
+    "description": "8th District",
+    "incumbentName": "",
+    "officeTypeGroupId": 4
+  },
+  {
+    "office": "Senate",
+    "code": 106,
+    "description": "1st Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 207,
+    "description": "3rd Berkshire",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Senate",
+    "code": 107,
+    "description": "2nd Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "Senate",
+    "code": 156,
+    "description": "3rd Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 209,
+    "description": "1st Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 501,
+    "description": "Barnstable County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 109,
+    "description": "1st Essex & Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 210,
+    "description": "2nd Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 502,
+    "description": "Berkshire County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 110,
+    "description": "2nd Essex & Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 211,
+    "description": "3rd Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 503,
+    "description": "Bristol County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 113,
+    "description": "Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 212,
+    "description": "4th Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 504,
+    "description": "Dukes County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 158,
+    "description": "Hampden and Hampshire",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 213,
+    "description": "5th Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 505,
+    "description": "Essex County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 159,
+    "description": "Hampden, Hampshire and Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 214,
+    "description": "6th Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 506,
+    "description": "Franklin County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 150,
+    "description": "Hampshire, Franklin & Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 215,
+    "description": "7th Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 507,
+    "description": "Hampden County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 115,
+    "description": "1st Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 216,
+    "description": "8th Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 508,
+    "description": "Hampshire County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 116,
+    "description": "2nd Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 217,
+    "description": "9th Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 509,
+    "description": "Middlesex County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 117,
+    "description": "3rd Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 218,
+    "description": "10th Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 510,
+    "description": "Nantucket County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 118,
+    "description": "4th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 219,
+    "description": "11th Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 511,
+    "description": "Norfolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 155,
+    "description": "5th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 220,
+    "description": "12th Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 512,
+    "description": "Plymouth County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 151,
+    "description": "Middlesex & Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 221,
+    "description": "13th Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 513,
+    "description": "Suffolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 123,
+    "description": "Middlesex & Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 222,
+    "description": "14th Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Sheriff",
+    "code": 514,
+    "description": "Worcester County",
+    "incumbentName": "",
+    "officeTypeGroupId": 6
+  },
+  {
+    "office": "Senate",
+    "code": 162,
+    "description": "Middlesex and Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 223,
+    "description": "1st Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "District Attorney",
+    "code": 602,
+    "description": "Berkshire District - Berkshire County",
+    "incumbentName": "",
+    "officeTypeGroupId": 5
+  },
+  {
+    "office": "Senate",
+    "code": 124,
+    "description": "Norfolk & Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 224,
+    "description": "2nd Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "District Attorney",
+    "code": 603,
+    "description": "Bristol District - Bristol County",
+    "incumbentName": "",
+    "officeTypeGroupId": 5
+  },
+  {
+    "office": "Senate",
+    "code": 152,
+    "description": "Norfolk & Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 225,
+    "description": "3rd Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "District Attorney",
+    "code": 604,
+    "description": "Cape & Islands District - Barnstable, Dukes & Nantucket County",
+    "incumbentName": "",
+    "officeTypeGroupId": 5
+  },
+  {
+    "office": "Senate",
+    "code": 164,
+    "description": "Norfolk and Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 226,
+    "description": "4th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "District Attorney",
+    "code": 605,
+    "description": "Eastern District - Essex County",
+    "incumbentName": "",
+    "officeTypeGroupId": 5
+  },
+  {
+    "office": "Senate",
+    "code": 168,
+    "description": "Norfolk, Plymouth and Bristol",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 227,
+    "description": "5th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "District Attorney",
+    "code": 606,
+    "description": "Northwestern District - Franklin County, Hampshire County",
+    "incumbentName": "",
+    "officeTypeGroupId": 5
+  },
+  {
+    "office": "Senate",
+    "code": 163,
+    "description": "Norfolk, Worcester and Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 228,
+    "description": "6th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "District Attorney",
+    "code": 607,
+    "description": "Hampden District - Hampden County",
+    "incumbentName": "",
+    "officeTypeGroupId": 5
+  },
+  {
+    "office": "Senate",
+    "code": 129,
+    "description": "Plymouth & Barnstable",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 229,
+    "description": "7th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "District Attorney",
+    "code": 609,
+    "description": "Northern District - Middlesex County",
+    "incumbentName": "",
+    "officeTypeGroupId": 5
+  },
+  {
+    "office": "Senate",
+    "code": 169,
+    "description": "2nd Plymouth and Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 230,
+    "description": "8th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "District Attorney",
+    "code": 611,
+    "description": "Norfolk District - Norfolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 5
+  },
+  {
+    "office": "Senate",
+    "code": 167,
+    "description": "1st Plymouth and Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 231,
+    "description": "9th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "District Attorney",
+    "code": 612,
+    "description": "Plymouth District - Plymouth County",
+    "incumbentName": "",
+    "officeTypeGroupId": 5
+  },
+  {
+    "office": "Senate",
+    "code": 130,
+    "description": "1st Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 232,
+    "description": "10th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "District Attorney",
+    "code": 613,
+    "description": "Suffolk District - Suffolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 5
+  },
+  {
+    "office": "Senate",
+    "code": 131,
+    "description": "2nd Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 233,
+    "description": "11th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "District Attorney",
+    "code": 614,
+    "description": "Middle District - Worcester County",
+    "incumbentName": "",
+    "officeTypeGroupId": 5
+  },
+  {
+    "office": "Senate",
+    "code": 165,
+    "description": "3rd Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 234,
+    "description": "12th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Senate",
+    "code": 166,
+    "description": "Suffolk and Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 235,
+    "description": "13th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Senate",
+    "code": 136,
+    "description": "1st Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 236,
+    "description": "14th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Senate",
+    "code": 138,
+    "description": "2nd Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 237,
+    "description": "15th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Senate",
+    "code": 139,
+    "description": "Worcester & Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 238,
+    "description": "16th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Senate",
+    "code": 161,
+    "description": "Worcester and Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 239,
+    "description": "17th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Senate",
+    "code": 160,
+    "description": "Worcester and Hampshire",
+    "incumbentName": "",
+    "officeTypeGroupId": 2
+  },
+  {
+    "office": "House",
+    "code": 362,
+    "description": "18th Essex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 240,
+    "description": "1st Franklin",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 241,
+    "description": "2nd Franklin",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 242,
+    "description": "1st Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 243,
+    "description": "2nd Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 244,
+    "description": "3rd Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 245,
+    "description": "4th Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 246,
+    "description": "5th Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 247,
+    "description": "6th Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 248,
+    "description": "7th Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 249,
+    "description": "8th Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 250,
+    "description": "9th Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 251,
+    "description": "10th Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 252,
+    "description": "11th Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 253,
+    "description": "12th Hampden",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 255,
+    "description": "1st Hampshire",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 256,
+    "description": "2nd Hampshire",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 257,
+    "description": "3rd Hampshire",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 258,
+    "description": "1st Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 259,
+    "description": "2nd Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 260,
+    "description": "3rd Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 261,
+    "description": "4th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 262,
+    "description": "5th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 263,
+    "description": "6th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 264,
+    "description": "7th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 265,
+    "description": "8th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 266,
+    "description": "9th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 267,
+    "description": "10th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 268,
+    "description": "11th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 269,
+    "description": "12th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 270,
+    "description": "13th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 271,
+    "description": "14th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 272,
+    "description": "15th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 273,
+    "description": "16th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 274,
+    "description": "17th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 275,
+    "description": "18th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 276,
+    "description": "19th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 277,
+    "description": "20th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 278,
+    "description": "21st Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 279,
+    "description": "22nd Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 280,
+    "description": "23rd Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 281,
+    "description": "24th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 282,
+    "description": "25th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 283,
+    "description": "26th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 284,
+    "description": "27th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 285,
+    "description": "28th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 286,
+    "description": "29th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 287,
+    "description": "30th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 288,
+    "description": "31st Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 289,
+    "description": "32nd Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 290,
+    "description": "33rd Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 291,
+    "description": "34th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 292,
+    "description": "35th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 293,
+    "description": "36th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 294,
+    "description": "37th Middlesex",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 297,
+    "description": "1st Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 298,
+    "description": "2nd Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 299,
+    "description": "3rd Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Mayoral",
+    "code": 4005,
+    "description": "Agawam",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4007,
+    "description": "Amesbury",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4016,
+    "description": "Attleboro",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4030,
+    "description": "Beverly",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4035,
+    "description": "Boston",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4040,
+    "description": "Braintree",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4044,
+    "description": "Brockton",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4049,
+    "description": "Cambridge",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4061,
+    "description": "Chicopee",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4087,
+    "description": "Easthampton",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4093,
+    "description": "Everett",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4095,
+    "description": "Fall River",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4097,
+    "description": "Fitchburg",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4100,
+    "description": "Framingham",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4103,
+    "description": "Gardner",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4107,
+    "description": "Gloucester",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4114,
+    "description": "Greenfield",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4128,
+    "description": "Haverhill",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4137,
+    "description": "Holyoke",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4149,
+    "description": "Lawrence",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4153,
+    "description": "Leominster",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4160,
+    "description": "Lowell",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4163,
+    "description": "Lynn",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4165,
+    "description": "Malden",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4170,
+    "description": "Marlborough",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4176,
+    "description": "Medford",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4178,
+    "description": "Melrose",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4181,
+    "description": "Methuen",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4201,
+    "description": "New Bedford",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4206,
+    "description": "Newburyport",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4207,
+    "description": "Newton",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4209,
+    "description": "North Adams",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4214,
+    "description": "Northampton",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4229,
+    "description": "Peabody",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4236,
+    "description": "Pittsfield",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4243,
+    "description": "Quincy",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4248,
+    "description": "Revere",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4258,
+    "description": "Salem",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4274,
+    "description": "Somerville",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4281,
+    "description": "Springfield",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4293,
+    "description": "Taunton",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4308,
+    "description": "Waltham",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4325,
+    "description": "West Springfield",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4329,
+    "description": "Westfield",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4336,
+    "description": "Weymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4347,
+    "description": "Woburn",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "Mayoral",
+    "code": 4348,
+    "description": "Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 8
+  },
+  {
+    "office": "City Councilor",
+    "code": 5035,
+    "description": "Boston",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5044,
+    "description": "Brockton",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5049,
+    "description": "Cambridge",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5095,
+    "description": "Fall River",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5100,
+    "description": "Framingham",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5128,
+    "description": "Haverhill",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5149,
+    "description": "Lawrence",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5160,
+    "description": "Lowell",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5163,
+    "description": "Lynn",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5165,
+    "description": "Malden",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5201,
+    "description": "New Bedford",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5207,
+    "description": "Newton",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5243,
+    "description": "Quincy",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5274,
+    "description": "Somerville",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5281,
+    "description": "Springfield",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5308,
+    "description": "Waltham",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "City Councilor",
+    "code": 5348,
+    "description": "Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 9
+  },
+  {
+    "office": "House",
+    "code": 300,
+    "description": "4th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 301,
+    "description": "5th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Assembly of Delegates",
+    "code": 2001,
+    "description": "Barnstable County",
+    "incumbentName": "",
+    "officeTypeGroupId": 12
+  },
+  {
+    "office": "House",
+    "code": 302,
+    "description": "6th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 303,
+    "description": "7th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 304,
+    "description": "8th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 305,
+    "description": "9th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 306,
+    "description": "10th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 307,
+    "description": "11th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 308,
+    "description": "12th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1001,
+    "description": "Barnstable County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 309,
+    "description": "13th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1002,
+    "description": "Berkshire County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 310,
+    "description": "14th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1003,
+    "description": "Bristol County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 311,
+    "description": "15th Norfolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1004,
+    "description": "Dukes County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 312,
+    "description": "1st Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1005,
+    "description": "Essex County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 313,
+    "description": "2nd Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1006,
+    "description": "Franklin County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 314,
+    "description": "3rd Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1007,
+    "description": "Hampden County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 315,
+    "description": "4th Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1008,
+    "description": "Hampshire County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 316,
+    "description": "5th Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1009,
+    "description": "Middlesex County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 317,
+    "description": "6th Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1010,
+    "description": "Nantucket County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 318,
+    "description": "7th Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1011,
+    "description": "Norfolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 319,
+    "description": "8th Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1012,
+    "description": "Plymouth County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 320,
+    "description": "9th Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Clerk of Courts",
+    "code": 1014,
+    "description": "Worcester County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 321,
+    "description": "10th Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 322,
+    "description": "11th Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "County Commissioner",
+    "code": 401,
+    "description": "Barnstable County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 343,
+    "description": "12th Plymouth",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 323,
+    "description": "1st Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "County Commissioner",
+    "code": 403,
+    "description": "Bristol County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 324,
+    "description": "2nd Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "County Commissioner",
+    "code": 404,
+    "description": "Dukes County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 325,
+    "description": "3rd Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 326,
+    "description": "4th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 327,
+    "description": "5th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 328,
+    "description": "6th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 329,
+    "description": "7th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 330,
+    "description": "8th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "County Commissioner",
+    "code": 411,
+    "description": "Norfolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 331,
+    "description": "9th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "County Commissioner",
+    "code": 412,
+    "description": "Plymouth County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 332,
+    "description": "10th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "House",
+    "code": 333,
+    "description": "11th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 901,
+    "description": "Barnstable County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 334,
+    "description": "12th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 902,
+    "description": "Berkshire County - Middle District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 335,
+    "description": "13th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 1017,
+    "description": "Berkshire County - Northern District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 336,
+    "description": "14th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 1018,
+    "description": "Berkshire County - Southern District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 337,
+    "description": "15th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 1021,
+    "description": "Bristol County - Fall River District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 338,
+    "description": "16th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 903,
+    "description": "Bristol County - Northern District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 339,
+    "description": "17th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 1019,
+    "description": "Bristol County - Southern District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 340,
+    "description": "18th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 904,
+    "description": "Dukes County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 341,
+    "description": "19th Suffolk",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 905,
+    "description": "Essex County - Northern District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 344,
+    "description": "1st Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 1020,
+    "description": "Essex County - Southern District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 345,
+    "description": "2nd Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 906,
+    "description": "Franklin County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 346,
+    "description": "3rd Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 907,
+    "description": "Hampden County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 347,
+    "description": "4th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 908,
+    "description": "Hampshire County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 348,
+    "description": "5th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 909,
+    "description": "Middlesex County - Northern District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 349,
+    "description": "6th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 1022,
+    "description": "Middlesex County - Southern District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 350,
+    "description": "7th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 910,
+    "description": "Nantucket County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 351,
+    "description": "8th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 911,
+    "description": "Norfolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 352,
+    "description": "9th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 912,
+    "description": "Plymouth County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 353,
+    "description": "10th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 913,
+    "description": "Suffolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 354,
+    "description": "11th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 914,
+    "description": "Worcester County - Worcester District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 355,
+    "description": "12th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Deeds",
+    "code": 1023,
+    "description": "Worcester County - Worcester Northern District",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 356,
+    "description": "13th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Probate",
+    "code": 801,
+    "description": "Barnstable County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 357,
+    "description": "14th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Probate",
+    "code": 802,
+    "description": "Berkshire County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 358,
+    "description": "15th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Probate",
+    "code": 803,
+    "description": "Bristol County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 359,
+    "description": "16th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Probate",
+    "code": 804,
+    "description": "Dukes County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 360,
+    "description": "17th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Probate",
+    "code": 805,
+    "description": "Essex County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 363,
+    "description": "18th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Probate",
+    "code": 806,
+    "description": "Franklin County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Register of Probate",
+    "code": 807,
+    "description": "Hampden County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Register of Probate",
+    "code": 808,
+    "description": "Hampshire County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Register of Probate",
+    "code": 809,
+    "description": "Middlesex County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Register of Probate",
+    "code": 810,
+    "description": "Nantucket County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "House",
+    "code": 364,
+    "description": "19th Worcester",
+    "incumbentName": "",
+    "officeTypeGroupId": 1
+  },
+  {
+    "office": "Register of Probate",
+    "code": 811,
+    "description": "Norfolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Register of Probate",
+    "code": 812,
+    "description": "Plymouth County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Register of Probate",
+    "code": 813,
+    "description": "Suffolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Register of Probate",
+    "code": 814,
+    "description": "Worcester County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Superior Court - Civil",
+    "code": 1015,
+    "description": "Suffolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Superior Court - Criminal",
+    "code": 1016,
+    "description": "Suffolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Supreme Judicial Clerk of Courts",
+    "code": 1013,
+    "description": "Suffolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Treasurer",
+    "code": 703,
+    "description": "Bristol County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Treasurer",
+    "code": 704,
+    "description": "Dukes County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Treasurer",
+    "code": 710,
+    "description": "Norfolk County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  },
+  {
+    "office": "Treasurer",
+    "code": 712,
+    "description": "Plymouth County",
+    "incumbentName": "",
+    "officeTypeGroupId": 10
+  }
+]

@@ -1,0 +1,12 @@
+Account_Type_Code	Account_Type_Description
+B	Banks
+D	Depository Candidate
+E	State Party Committee
+I	Independent Expenditure PAC
+L	Local Party Committee
+P	Political Action Committees
+S	Nonpartisan Non-Depository (Barnstable Assembly of Delegates)
+U	Legislative Candidates
+V	Segregated Accounts
+X	Referendum Committees
+Y	People's Committees

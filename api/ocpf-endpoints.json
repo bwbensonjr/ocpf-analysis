@@ -1,0 +1,633 @@
+[
+      {
+        "route": "accountTypes",
+        "controller": "Reference",
+        "description": "Returns a list of account types"
+      },
+    {
+        "route": "accountTypes/full",
+        "controller": "Reference",
+        "description": "Returns a list of account types and additional information"
+    },
+      {
+        "route": "filers/uicategories",
+        "controller": "Reference",
+        "description": "Returns UI categories of filers such as Democratic LPCs"
+      },
+      {
+        "route": "officeTypeList",
+        "controller": "Reference",
+        "description": "Returns a list of office types, used to group districts"
+      },
+      {
+        "route": "districts",
+        "controller": "Reference",
+        "description": "Returns all district codes or by office type"
+      },
+    {
+        "route": "districts/{officeType}",
+        "controller": "Reference",
+        "description": "Returns all district codes or by office type"
+    },
+
+      {
+        "route": "municipalityList/{phrase}",
+        "controller": "Reference",
+        "description": "Returns all proper cities containing the provided phrase or all"
+      },
+      {
+        "route": "municipalityList/options",
+        "controller": "Reference",
+        "description": "Dropdown list of all cities"
+      },
+      {
+        "route": "states/{phrase}",
+        "controller": "Reference",
+        "description": "Returns all states or a filtered list based on a phrase"
+      },
+      {
+        "route": "weeks/{year}",
+        "controller": "Reference",
+        "description": "Returns a list of weeks in the provided year"
+      },
+      {
+        "route": "filer/{cpfId}",
+        "controller": "Filers",
+        "description": "Returns a single filer from a specified CPF ID"
+      },
+    {
+        "route": "filer/payload/{cpfId}",
+        "controller": "Filers",
+        "description": "Returns a single filer from a specified CPF ID and related information"
+    },
+      {
+        "route": "filer/issues/{cpfId}",
+        "controller": "Filers",
+        "description": "Returns all audit correspondence"
+      },
+      {
+        "route": "filer/correspondence/nonaudit/{cpfId}",
+        "controller": "Filers",
+        "description": "Returns all filer documents besides audit issues, letters"
+      },
+      {
+        "route": "filer/correspondence/all/{cpfId}",
+        "controller": "Filers",
+        "description": "Returns all filer documents"
+      }
+      ,
+      {
+        "route": "filers/listings/{category}/{searchPhrase}",
+        "controller": "Filers",
+        "description": "Returns filer listings for the left-side nav bar in the filer section"
+      },
+      {
+                "route": "filers/options/{category}/{searchPhrase}",
+        "controller": "Filers",
+        "description": ""
+      },
+      {
+        "route": "filers/recentlyOrganized/{category}",
+        "controller": "Filers",
+        "description": ""
+      },
+      {
+        "route": "filers/mayoral/{year}",
+        "controller": "Filers",
+        "description": "For mayoral report table/page"
+      },
+      {
+        "route": "filers/incumbents/{startDistrictCodeRange}/{endDistrictCodeRange}",
+        "controller": "Filers",
+        "description": ""
+      },
+      {
+        "route": "filers/changesOfPurpose",
+        "controller": "Filers",
+        "description": "Returns last 100 changes of purpose"
+      },
+      {
+        "route": "filers/pacs/{searchPhrase}",
+        "controller": "Filers",
+        "description": ""
+      },
+      {
+        "route": "filers/barred",
+        "controller": "Filers",
+        "description": "Returns filers barred from running from office"
+      },
+      {
+        "route": "municipalities",
+        "controller": "MunicipalData",
+        "description": "Returns all municipalities with elected officials"
+      },
+      {
+        "route": "municipality/byCode/{code}/{year}",
+        "controller": "MunicipalData",
+        "description": "Returns a single municipality with elected officials"
+      },
+      {
+        "route": "municipality/byName/{name}/{year}",
+        "controller": "MunicipalData",
+        "description": "Returns a single municipality with elected officials"
+      },
+      {
+        "route": "municipality/calculator",
+        "controller": "MunicipalData",
+        "description": "Returns a calculated filing schedule",
+        "additionalParameters": [
+            { "name": "primaryElectionDate", "value": "" },
+            { "name": "generalElectionDate", "value": "" },
+            { "name": "year", "value": 2024 },
+            { "name": "hasPreliminary", "value": true },
+            { "name": "isCityFallElection", "value": false }
+        ]
+      },
+      {
+        "route": "ballotQuestions/{year}",
+        "controller": "BallotQuestion",
+        "description": "Returns a list of ballot questions w/o linked committees",
+        "additionalParameters": [
+                    { "name": "includeRegionalBq", "value": false, "required": false }
+        ]
+      },
+      {
+        "route": "ballotQuestions/committees/{year}/{ballotQuestionId}",
+        "controller": "BallotQuestion",
+        "description": "Returns a list of ballot question committees"
+      },
+      {
+        "route": "ballotQuestions/chartData/{year}/{questionId}/{chartType}",
+        "controller": "BallotQuestion",
+        "description": "Returns chart data for BQs"
+      },
+    {
+        "route": "reports/ballotQuestions/{year}",
+        "controller": "BallotQuestion",
+        "description": "Returns a list of ballot question reports by year"
+    },
+    {
+        "route": "reports/ballotQuestions/byQuestion/{year}",
+        "controller": "BallotQuestion",
+        "description": "Returns a list of ballot question reports by question/year"
+    },
+      {
+        "route": "onballot/ballotYears/{districtCode}",
+        "controller": "Elections",
+        "description": "Returns all years a specified district code appeared on the ballot"
+      },
+      {
+        "route": "onballot/candidates/byDistrictPhrase/{year}/{districtSearchPhrase}",
+        "controller": "Elections",
+        "description": ""
+      },
+      {
+        "route": "onballot/finsummaries/{year}/{districtCode}",
+        "controller": "Elections",
+        "description": "Returns financial summaries for a specified district"
+      },
+      {
+        "route": "onballot/candidates/{year}/{districtCode}",
+        "controller": "Elections",
+        "description": "Returns all on-ballot candidates for a specified district/year"
+      },
+      {
+        "route": "specialElection/{id}",
+        "controller": "Elections",
+        "description": "Returns a special elections with involved candidates"
+      },
+      {
+        "route": "specialElections/{year}",
+        "controller": "Elections",
+        "description": "Returns all special elections"
+      },
+      {
+        "route": "chartData/onBallot/{year}/{districtCode}",
+        "controller": "Elections",
+        "description": ""
+      },
+      {
+        "route": "chartData/electionChart",
+        "controller": "Elections",
+        "description": ""
+      },
+      {
+        "route": "chartData/monthly",
+        "controller": "Elections",
+        "description": ""
+      }
+      ,
+      {
+        "route": "chart/detail",
+        "controller": "Elections",
+        "description": ""
+      },
+      {
+        "route": "chart/detail/summary",
+        "controller": "Elections",
+        "description": ""
+      },
+      {
+        "route": "legal/regulations",
+        "controller": "Legal",
+        "description": "Returns all regulations"
+      },
+      {
+        "route": "legal/aos",
+        "controller": "Legal",
+        "description": "Returns all advisory opinions or a specified one"
+      },
+      {
+        "route": "legal/gls",
+        "controller": "Legal",
+        "description": "Returns all guidance letters or a specified one"
+      },
+      {
+        "route": "legal/actions",
+        "controller": "Legal",
+        "description": "Returns all agency actions or a specified one"
+      },
+      {
+        "route": "legal/search/{searchPhrase1}/{searchPhrase2}",
+        "controller": "Legal",
+        "description": "Returns legal document search results"
+      },
+      {
+        "route": "legal/document/{docId}",
+        "controller": "Legal",
+        "description": "Returns a specific legal document",
+        "additionalParameters": [
+            { "name": "truncateText", "value": false },
+            { "name": "includeFullText", "value": false }
+        ]
+      },
+      {
+        "route": "reports/log",
+        "controller": "ReportData",
+        "description": "Returns a list of recently filed reports"
+      },
+        {
+            "route": "report/{reportId}",
+            "controller": "ReportData",
+            "description": "For main display, returns a specific report"
+        },
+        {
+            "route": "report/generic/{reportId}",
+            "controller": "ReportData",
+            "description": "Returns a generic report"
+        },
+      {
+        "route": "report/items/{reportId}/{scheduleCode}",
+        "controller": "ReportData",
+        "description": "Returns all report items for a specified schedule"
+      }
+      ,
+      {
+        "route": "report/pdf/{reportId}",
+        "controller": "ReportData",
+        "description": "Creates a PDF for the specified report"
+      },
+      {
+        "route": "reports/baseReportTypes/{cpfId}",
+        "controller": "ReportData",
+        "description": "Returns all base report types the filer has filed"
+      },
+      {
+        "route": "reports/reportList/{cpfId}",
+        "controller": "ReportData",
+        "description": "A list of reports based on provided criteria",
+        "additionalParameters": [
+            { "name": "pageSize", "value": 50, "required": false },
+            { "name": "startIndex", "value": 1, "required": false },
+            { "name": "sortField", "value": "", "required": false },
+            { "name": "sortDirection", "value": "", "required": false },
+            { "name": "filingStartDate", "value": "", "required": false },
+            { "name": "filingEndDate", "value": "", "required": false },
+            { "name": "currentOnly", "value": "", "required": false },
+            { "name": "reportYear", "value": -1, "required": false },
+            { "name": "baseReportTypeId", "value": "", "required": true },
+            { "name": "reportStartDate", "value": "", "required": false },
+            { "name": "reportEndDate", "value": "", "required": false },
+            { "name": "withSummary", "value": false, "required": false }
+        ]
+      },
+      {
+        "route": "reports/reportList/excelOutput",
+        "controller": "ReportData",
+        "description": "A spreadsheet with a list of reports based on provided criteria"
+      },
+      {
+        "route": "search/items",
+        "controller": "ReportData",
+        "description": "Returns either search contributions, expenditures, donations or subvendor payments and an optional summary"
+      },
+      {
+        "route": "search/recordTypes/{searchTypeCategory}",
+        "controller": "ReportData",
+        "description": "For a receipt search, will return record type filter such as Individual Contribution, PAC contribution, etc."
+      },
+      {
+        "route": "search/itemGroupings",
+        "controller": "ReportData",
+        "description": ""
+      },
+      {
+        "route": "search/textOutput",
+        "controller": "ReportData",
+        "description": ""
+      },
+      {
+        "route": "search/excelOutput",
+        "controller": "ReportData",
+        "description": ""
+      },
+      {
+        "route": "search/pdfOutput",
+        "controller": "ReportData",
+        "description": ""
+      },
+      {
+        "route": "search/partial",
+        "controller": "ReportData",
+        "description": ""
+      },
+
+      {
+        "route": "reports/{year}/{reportTypeId}",
+        "controller": "ReportData",
+        "description": "API only, RE-IMPLEMENT"
+      },
+      {
+        "route": "reports/legislative/race/nd/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/legislative/race/depository/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/legislative/fullYear/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/legislative/depository/ytd/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/county/ytd/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/statewide/ytd/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/mayoral/depository/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/mayoral/nd/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/cc/ytd/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/pacs/{year}",
+        "controller": "ReportPageData",
+        "description": "Returns PAC reports by year"
+      },
+      {
+        "route": "reports/stateparties/{year}",
+        "controller": "ReportPageData",
+        "description": "Returns State Party reports by year"
+      },
+      {
+        "route": "reports/lpc/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/lpc/summary/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/lpc/textOutput/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/lpc/excelOutput/{year}",
+        "controller": "ReportPageData",
+        "description": ""
+      },
+      {
+        "route": "reports/ballotQuestions/{year}",
+        "controller": "ReportPageData",
+        "description": "Returns all active BQ committee reports"
+      },
+      {
+        "route": "reports/ballotQuestions/byQuestion/{year}",
+        "controller": "ReportPageData",
+        "description": "Returns all active BQ committee reports related to ballot questions on ballot"
+      },
+      {
+        "route": "miscreports/log",
+        "controller": "MiscReportData",
+        "description": ""
+      },
+      {
+        "route": "miscreports/expenditures/{year}",
+        "controller": "MiscReportData",
+        "description": ""
+      },
+      {
+        "route": "miscreports/expenditures/summary/{year}",
+        "controller": "MiscReportData",
+        "description": ""
+      },
+      {
+        "route": "miscreports/reports/{year}",
+        "controller": "MiscReportData",
+        "description": ""
+      },
+      {
+        "route": "miscreports/reports/summary/{year}",
+        "controller": "MiscReportData",
+        "description": ""
+      },
+      {
+        "route": "miscreports/textOutput/{year}",
+        "controller": "MiscReportData",
+        "description": ""
+      },
+      {
+        "route": "miscreports/entities/{year}",
+        "controller": "MiscReportData",
+        "description": ""
+      },
+      {
+        "route": "miscreports/vendors/{year}",
+        "controller": "MiscReportData",
+        "description": ""
+      }
+      ,
+      {
+        "route": "miscreports/candidates/{year}",
+        "controller": "MiscReportData",
+        "description": ""
+      },
+      {
+        "route": "miscreports/iepacs/reports/{year}",
+        "controller": "MiscReportData",
+        "description": "Returns multiple IEPAC reports"
+      },
+      {
+        "route": "miscreports/iepacs/reports/summary/{year}",
+        "controller": "MiscReportData",
+        "description": ""
+      },
+      {
+        "route": "miscreports/iepacs/committeeNames/{year}",
+        "controller": "MiscReportData",
+        "description": ""
+      },
+      {
+        "route": "miscreports/iepacs/candidates/{year}",
+        "controller": "MiscReportData",
+        "description": ""
+      },
+      {
+        "route": "miscreport/{reportId}",
+        "controller": "MiscReportData",
+        "description": "Returns a single misc report"
+      },
+      {
+        "route": "miscreport/receipts/{reportId}",
+        "controller": "MiscReportData",
+        "description": "Returns a single misc report's receipts"
+      },
+      {
+        "route": "miscreport/expenditures/{reportId}",
+        "controller": "MiscReportData",
+        "description": "Returns a single misc report"
+      }
+      ,
+      {
+        "route": "miscreport/expenditures/{reportId}",
+        "controller": "MiscReportData",
+        "description": "Returns a single misc report's expenditures"
+      },
+      {
+        "route": "miscreport/liabilities/{reportId}",
+        "controller": "MiscReportData",
+        "description": "Returns a single misc report's liabilities"
+      },
+      {
+        "route": "miscreports/related/{cpfId}",
+        "controller": "MiscReportData",
+        "description": "Returns all reports that support or oppose a specified candidate"
+      },
+      {
+        "route": "photos",
+        "controller": "OcpfUsData",
+        "description": "Returns the homepage pictures URLs"
+      },
+      {
+        "route": "news/{id}",
+        "controller": "OcpfUsData",
+        "description": "Returns all news posts or a specified one"
+      },
+      {
+        "route": "news/byPhrase/{phrase}",
+        "controller": "OcpfUsData",
+        "description": "Returns news posts by a search phrase"
+      },
+      {
+        "route": "news/recent",
+        "controller": "OcpfUsData",
+        "description": "Returns last 4 news posts"
+      },
+      {
+        "route": "videos/{id}",
+        "controller": "OcpfUsData",
+        "description": "Returns all help videos or a specified one"
+      },
+      {
+        "route": "videos/byPhrase/{phrase}",
+        "controller": "OcpfUsData",
+        "description": "Returns videos by a search phrase"
+      },
+      {
+        "route": "events/{year}/{month}",
+        "controller": "OcpfUsData",
+        "description": "Returns calendar events by year/month"
+      }
+      ,
+      {
+        "route": "events/upcoming",
+        "controller": "OcpfUsData",
+        "description": "Returns all public calendar events in the next 6 mos"
+      },
+      {
+        "route": "events/upcoming/next4",
+        "controller": "OcpfUsData",
+        "description": "Returns next 4 public calendar events"
+      },
+      {
+        "route": "releases/{id}",
+        "controller": "OcpfUsData",
+        "description": "Returns all press releases or a specific press release"
+      },
+      {
+        "route": "filingDeadlines",
+        "controller": "OcpfUsData",
+        "description": "From filing notices"
+      },
+      {
+        "route": "newsletters",
+        "controller": "OcpfUsData",
+        "description": "Returns all newsletters"
+      },
+      {
+        "route": "checkingin",
+        "controller": "OcpfUsData",
+        "description": "Returns all checking-in emails"
+      },
+    {
+        "route": "forms/all",
+        "controller": "OcpfUsData",
+        "description": "Returns all forms"
+    },
+    {
+        "route": "publications/studies",
+        "controller": "OcpfUsData",
+        "description": "Returns all OCPF studies"
+    },
+    {
+        "route": "filingSchedules/{year}",
+        "controller": "OcpfUsData",
+        "description": "Returns filing schedules"
+    },
+
+
+
+
+      {
+        "route": "public/search/{term}",
+        "controller": "Search",
+        "description": "Returns all matched filers and documents"
+       }
+]
+    

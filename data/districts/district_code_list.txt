@@ -1,0 +1,714 @@
+District_Code	Office_Type_Description	District_Description
+104	Senate	1st Plymouth & Bristol
+105	Senate	Cape & Islands
+106	Senate	1st Essex
+107	Senate	2nd Essex
+109	Senate	1st Essex & Middlesex
+110	Senate	2nd Essex & Middlesex
+112	Senate	1st Hampden & Hampshire
+113	Senate	Hampden
+114	Senate	2nd Hampden & Hampshire
+115	Senate	1st Middlesex
+116	Senate	2nd Middlesex
+117	Senate	3rd Middlesex
+118	Senate	4th Middlesex
+120	Senate	1st Middlesex & Norfolk
+123	Senate	Middlesex & Worcester
+124	Senate	Norfolk & Plymouth
+125	Senate	"Norfolk, Bristol & Plymouth"
+126	Senate	"Norfolk, Bristol & Middlesex"
+127	Senate	Plymouth & Norfolk
+128	Senate	2nd Plymouth & Bristol
+129	Senate	Plymouth & Barnstable
+130	Senate	1st Suffolk
+131	Senate	2nd Suffolk
+136	Senate	1st Worcester
+138	Senate	2nd Worcester
+139	Senate	Worcester & Middlesex
+140	Senate	Worcester & Norfolk
+142	Senate	Bristol & Norfolk
+143	Senate	1st Bristol & Plymouth
+144	Senate	2nd Bristol & Plymouth
+147	Senate	2nd Middlesex & Norfolk
+148	Senate	1st Suffolk & Middlesex
+149	Senate	2nd Suffolk & Middlesex
+150	Senate	"Hampshire, Franklin & Worcester"
+151	Senate	Middlesex & Suffolk
+152	Senate	Norfolk & Suffolk
+153	Senate	"Worcester, Hampden, Hampshire & Middlesex"
+154	Senate	"Berkshire, Hampshire, Franklin & Hampden"
+155	Senate	5th Middlesex
+156	Senate	3rd Essex
+201	House	1st Barnstable
+202	House	2nd Barnstable
+203	House	3rd Barnstable
+204	House	"Barnstable, Dukes & Nantucket"
+205	House	1st Berkshire
+206	House	2nd Berkshire
+207	House	3rd Berkshire
+208	House	4th Berkshire
+209	House	1st Bristol
+210	House	2nd Bristol
+211	House	3rd Bristol
+212	House	4th Bristol
+213	House	5th Bristol
+214	House	6th Bristol
+215	House	7th Bristol
+216	House	8th Bristol
+217	House	9th Bristol
+218	House	10th Bristol
+219	House	11th Bristol
+220	House	12th Bristol
+221	House	13th Bristol
+222	House	14th Bristol
+223	House	1st Essex
+224	House	2nd Essex
+225	House	3rd Essex
+226	House	4th Essex
+227	House	5th Essex
+228	House	6th Essex
+229	House	7th Essex
+230	House	8th Essex
+231	House	9th Essex
+232	House	10th Essex
+233	House	11th Essex
+234	House	12th Essex
+235	House	13th Essex
+236	House	14th Essex
+237	House	15th Essex
+238	House	16th Essex
+239	House	17th Essex
+240	House	1st Franklin
+241	House	2nd Franklin
+242	House	1st Hampden
+243	House	2nd Hampden
+244	House	3rd Hampden
+245	House	4th Hampden
+246	House	5th Hampden
+247	House	6th Hampden
+248	House	7th Hampden
+249	House	8th Hampden
+250	House	9th Hampden
+251	House	10th Hampden
+252	House	11th Hampden
+253	House	12th Hampden
+255	House	1st Hampshire
+256	House	2nd Hampshire
+257	House	3rd Hampshire
+258	House	1st Middlesex
+259	House	2nd Middlesex
+260	House	3rd Middlesex
+261	House	4th Middlesex
+262	House	5th Middlesex
+263	House	6th Middlesex
+264	House	7th Middlesex
+265	House	8th Middlesex
+266	House	9th Middlesex
+267	House	10th Middlesex
+268	House	11th Middlesex
+269	House	12th Middlesex
+270	House	13th Middlesex
+271	House	14th Middlesex
+272	House	15th Middlesex
+273	House	16th Middlesex
+274	House	17th Middlesex
+275	House	18th Middlesex
+276	House	19th Middlesex
+277	House	20th Middlesex
+278	House	21st Middlesex
+279	House	22nd Middlesex
+280	House	23rd Middlesex
+281	House	24th Middlesex
+282	House	25th Middlesex
+283	House	26th Middlesex
+284	House	27th Middlesex
+285	House	28th Middlesex
+286	House	29th Middlesex
+287	House	30th Middlesex
+288	House	31st Middlesex
+289	House	32nd Middlesex
+290	House	33rd Middlesex
+291	House	34th Middlesex
+292	House	35th Middlesex
+293	House	36th Middlesex
+294	House	37th Middlesex
+296	House	4th Barnstable
+297	House	1st Norfolk
+298	House	2nd Norfolk
+299	House	3rd Norfolk
+300	House	4th Norfolk
+301	House	5th Norfolk
+302	House	6th Norfolk
+303	House	7th Norfolk
+304	House	8th Norfolk
+305	House	9th Norfolk
+306	House	10th Norfolk
+307	House	11th Norfolk
+308	House	12th Norfolk
+309	House	13th Norfolk
+310	House	14th Norfolk
+311	House	15th Norfolk
+312	House	1st Plymouth
+313	House	2nd Plymouth
+314	House	3rd Plymouth
+315	House	4th Plymouth
+316	House	5th Plymouth
+317	House	6th Plymouth
+318	House	7th Plymouth
+319	House	8th Plymouth
+320	House	9th Plymouth
+321	House	10th Plymouth
+322	House	11th Plymouth
+323	House	1st Suffolk
+324	House	2nd Suffolk
+325	House	3rd Suffolk
+326	House	4th Suffolk
+327	House	5th Suffolk
+328	House	6th Suffolk
+329	House	7th Suffolk
+330	House	8th Suffolk
+331	House	9th Suffolk
+332	House	10th Suffolk
+333	House	11th Suffolk
+334	House	12th Suffolk
+335	House	13th Suffolk
+336	House	14th Suffolk
+337	House	15th Suffolk
+338	House	16th Suffolk
+339	House	17th Suffolk
+340	House	18th Suffolk
+341	House	19th Suffolk
+343	House	12th Plymouth
+344	House	1st Worcester
+345	House	2nd Worcester
+346	House	3rd Worcester
+347	House	4th Worcester
+348	House	5th Worcester
+349	House	6th Worcester
+350	House	7th Worcester
+351	House	8th Worcester
+352	House	9th Worcester
+353	House	10th Worcester
+354	House	11th Worcester
+355	House	12th Worcester
+356	House	13th Worcester
+357	House	14th Worcester
+358	House	15th Worcester
+359	House	16th Worcester
+360	House	17th Worcester
+361	House	5th Barnstable
+362	House	18th Essex
+363	House	18th Worcester
+401	County Commissioner	Barnstable County
+403	County Commissioner	Bristol County
+404	County Commissioner	Dukes County
+411	County Commissioner	Norfolk County
+412	County Commissioner	Plymouth County
+501	Sheriff	Barnstable County
+502	Sheriff	Berkshire County
+503	Sheriff	Bristol County
+504	Sheriff	Dukes County
+505	Sheriff	Essex County
+506	Sheriff	Franklin County
+507	Sheriff	Hampden County
+508	Sheriff	Hampshire County
+509	Sheriff	Middlesex County
+510	Sheriff	Nantucket County
+511	Sheriff	Norfolk County
+512	Sheriff	Plymouth County
+513	Sheriff	Suffolk County
+514	Sheriff	Worcester County
+602	District Attorney	Berkshire District - Berkshire County
+603	District Attorney	Bristol District - Bristol County
+604	District Attorney	"Cape & Islands District - Barnstable, Dukes & Nantucket County"
+605	District Attorney	Eastern District - Essex County
+606	District Attorney	"Northwestern District - Franklin County, Hampshire County"
+607	District Attorney	Hampden District - Hampden County
+609	District Attorney	Northern District - Middlesex County
+611	District Attorney	Norfolk District - Norfolk County
+612	District Attorney	Plymouth District - Plymouth County
+613	District Attorney	Suffolk District - Suffolk County
+614	District Attorney	Middle District
+703	Treasurer	Bristol County
+704	Treasurer	Dukes County
+710	Treasurer	Norfolk County
+712	Treasurer	Plymouth County
+801	Register of Probate	Barnstable County
+802	Register of Probate	Berkshire County
+803	Register of Probate	Bristol County
+804	Register of Probate	Dukes County
+805	Register of Probate	Essex County
+806	Register of Probate	Franklin County
+807	Register of Probate	Hampden County
+808	Register of Probate	Hampshire County
+809	Register of Probate	Middlesex County
+810	Register of Probate	Nantucket County
+811	Register of Probate	Norfolk County
+812	Register of Probate	Plymouth County
+813	Register of Probate	Suffolk County
+814	Register of Probate	Worcester County
+901	Register of Deeds	Barnstable County
+902	Register of Deeds	Berkshire County - Middle District
+903	Register of Deeds	Bristol County - Northern District
+904	Register of Deeds	Dukes County
+905	Register of Deeds	Essex County - Northern District
+906	Register of Deeds	Franklin County
+907	Register of Deeds	Hampden County
+908	Register of Deeds	Hampshire County
+909	Register of Deeds	Middlesex County - Northern District
+910	Register of Deeds	Nantucket County
+911	Register of Deeds	Norfolk County
+912	Register of Deeds	Plymouth County
+913	Register of Deeds	Suffolk County
+914	Register of Deeds	Worcester County - Worcester District
+1001	Clerk of Courts	Barnstable County
+1002	Clerk of Courts	Berkshire County
+1003	Clerk of Courts	Bristol County
+1004	Clerk of Courts	Dukes County
+1005	Clerk of Courts	Essex County
+1006	Clerk of Courts	Franklin County
+1007	Clerk of Courts	Hampden County
+1008	Clerk of Courts	Hampshire County
+1009	Clerk of Courts	Middlesex County
+1010	Clerk of Courts	Nantucket County
+1011	Clerk of Courts	Norfolk County
+1012	Clerk of Courts	Plymouth County
+1013	Supreme Judicial Clerk of Courts	Suffolk County
+1014	Clerk of Courts	Worcester County
+1015	Superior Court - Civil	Suffolk County
+1016	Superior Court - Criminal	Suffolk County
+1017	Register of Deeds	Berkshire County - Northern District
+1018	Register of Deeds	Berkshire County - Southern District
+1019	Register of Deeds	Bristol County - Southern District
+1020	Register of Deeds	Essex County - Southern District
+1021	Register of Deeds	Bristol County - Fall River District
+1022	Register of Deeds	Middlesex County - Southern District
+1023	Register of Deeds	Worcester County - Worcester Northern District
+1101	Governor's Council	1st District
+1102	Governor's Council	2nd District
+1103	Governor's Council	3rd District
+1104	Governor's Council	4th District
+1105	Governor's Council	5th District
+1106	Governor's Council	6th District
+1107	Governor's Council	7th District
+1108	Governor's Council	8th District
+1109	Statewide	Governor
+1110	Statewide	Lieutenant Governor
+1111	Statewide	Attorney General
+1112	Statewide	Secretary of State
+1113	Statewide	Treasurer of the Commonwealth
+1114	Statewide	Auditor
+2001	Assembly of Delegates	Barnstable County
+3000	Municipal	Local Filer
+3001	Municipal	Abington
+3002	Municipal	Acton
+3003	Municipal	Acushnet
+3004	Municipal	Adams
+3005	Municipal	Agawam
+3006	Municipal	Alford
+3007	Municipal	Amesbury
+3008	Municipal	Amherst
+3009	Municipal	Andover
+3010	Municipal	Arlington
+3011	Municipal	Ashburnham
+3012	Municipal	Ashby
+3013	Municipal	Ashfield
+3014	Municipal	Ashland
+3015	Municipal	Athol
+3016	Municipal	Attleboro
+3017	Municipal	Auburn
+3018	Municipal	Avon
+3019	Municipal	Ayer
+3020	Municipal	Barnstable
+3021	Municipal	Barre
+3022	Municipal	Becket
+3023	Municipal	Bedford
+3024	Municipal	Belchertown
+3025	Municipal	Bellingham
+3026	Municipal	Belmont
+3027	Municipal	Berkley
+3028	Municipal	Berlin
+3029	Municipal	Bernardston
+3030	Municipal	Beverly
+3031	Municipal	Billerica
+3032	Municipal	Blackstone
+3033	Municipal	Blandford
+3034	Municipal	Bolton
+3035	Municipal	Boston
+3036	Municipal	Bourne
+3037	Municipal	Boxborough
+3038	Municipal	Boxford
+3039	Municipal	Boylston
+3040	Municipal	Braintree
+3041	Municipal	Brewster
+3042	Municipal	Bridgewater
+3043	Municipal	Brimfield
+3044	Municipal	Brockton
+3045	Municipal	Brookfield
+3046	Municipal	Brookline
+3047	Municipal	Buckland
+3048	Municipal	Burlington
+3049	Municipal	Cambridge
+3050	Municipal	Canton
+3051	Municipal	Carlisle
+3052	Municipal	Carver
+3053	Municipal	Charlemont
+3054	Municipal	Charlton
+3055	Municipal	Chatham
+3056	Municipal	Chelmsford
+3057	Municipal	Chelsea
+3058	Municipal	Cheshire
+3059	Municipal	Chester
+3060	Municipal	Chesterfield
+3061	Municipal	Chicopee
+3062	Municipal	Chilmark
+3063	Municipal	Clarksburg
+3064	Municipal	Clinton
+3065	Municipal	Cohasset
+3066	Municipal	Colrain
+3067	Municipal	Concord
+3068	Municipal	Conway
+3069	Municipal	Cummington
+3070	Municipal	Dalton
+3071	Municipal	Danvers
+3072	Municipal	Dartmouth
+3073	Municipal	Dedham
+3074	Municipal	Deerfield
+3075	Municipal	Dennis
+3076	Municipal	Dighton
+3077	Municipal	Douglas
+3078	Municipal	Dover
+3079	Municipal	Dracut
+3080	Municipal	Dudley
+3081	Municipal	Dunstable
+3082	Municipal	Duxbury
+3083	Municipal	East Bridgewater
+3084	Municipal	East Brookfield
+3085	Municipal	East Longmeadow
+3086	Municipal	Eastham
+3087	Municipal	Easthampton
+3088	Municipal	Easton
+3089	Municipal	Edgartown
+3090	Municipal	Egremont
+3091	Municipal	Erving
+3092	Municipal	Essex
+3093	Municipal	Everett
+3094	Municipal	Fairhaven
+3095	Municipal	Fall River
+3096	Municipal	Falmouth
+3097	Municipal	Fitchburg
+3098	Municipal	Florida
+3099	Municipal	Foxborough
+3100	Municipal	Framingham
+3101	Municipal	Franklin
+3102	Municipal	Freetown
+3103	Municipal	Gardner
+3104	Municipal	Aquinnah
+3105	Municipal	Georgetown
+3106	Municipal	Gill
+3107	Municipal	Gloucester
+3108	Municipal	Goshen
+3109	Municipal	Gosnold
+3110	Municipal	Grafton
+3111	Municipal	Granby
+3112	Municipal	Granville
+3113	Municipal	Great Barrington
+3114	Municipal	Greenfield
+3115	Municipal	Groton
+3116	Municipal	Groveland
+3117	Municipal	Hadley
+3118	Municipal	Halifax
+3119	Municipal	Hamilton
+3120	Municipal	Hampden
+3121	Municipal	Hancock
+3122	Municipal	Hanover
+3123	Municipal	Hanson
+3124	Municipal	Hardwick
+3125	Municipal	Harvard
+3126	Municipal	Harwich
+3127	Municipal	Hatfield
+3128	Municipal	Haverhill
+3129	Municipal	Hawley
+3130	Municipal	Heath
+3131	Municipal	Hingham
+3132	Municipal	Hinsdale
+3133	Municipal	Holbrook
+3134	Municipal	Holden
+3135	Municipal	Holland
+3136	Municipal	Holliston
+3137	Municipal	Holyoke
+3138	Municipal	Hopedale
+3139	Municipal	Hopkinton
+3140	Municipal	Hubbardston
+3141	Municipal	Hudson
+3142	Municipal	Hull
+3143	Municipal	Huntington
+3144	Municipal	Ipswich
+3145	Municipal	Kingston
+3146	Municipal	Lakeville
+3147	Municipal	Lancaster
+3148	Municipal	Lanesborough
+3149	Municipal	Lawrence
+3150	Municipal	Lee
+3151	Municipal	Leicester
+3152	Municipal	Lenox
+3153	Municipal	Leominster
+3154	Municipal	Leverett
+3155	Municipal	Lexington
+3156	Municipal	Leyden
+3157	Municipal	Lincoln
+3158	Municipal	Littleton
+3159	Municipal	Longmeadow
+3160	Municipal	Lowell
+3161	Municipal	Ludlow
+3162	Municipal	Lunenburg
+3163	Municipal	Lynn
+3164	Municipal	Lynnfield
+3165	Municipal	Malden
+3166	Municipal	Manchester
+3167	Municipal	Mansfield
+3168	Municipal	Marblehead
+3169	Municipal	Marion
+3170	Municipal	Marlborough
+3171	Municipal	Marshfield
+3172	Municipal	Mashpee
+3173	Municipal	Mattapoisett
+3174	Municipal	Maynard
+3175	Municipal	Medfield
+3176	Municipal	Medford
+3177	Municipal	Medway
+3178	Municipal	Melrose
+3179	Municipal	Mendon
+3180	Municipal	Merrimac
+3181	Municipal	Methuen
+3182	Municipal	Middleborough
+3183	Municipal	Middlefield
+3184	Municipal	Middleton
+3185	Municipal	Milford
+3186	Municipal	Millbury
+3187	Municipal	Millis
+3188	Municipal	Millville
+3189	Municipal	Milton
+3190	Municipal	Monroe
+3191	Municipal	Monson
+3192	Municipal	Montague
+3193	Municipal	Monterey
+3194	Municipal	Montgomery
+3195	Municipal	Mount Washington
+3196	Municipal	Nahant
+3197	Municipal	Nantucket
+3198	Municipal	Natick
+3199	Municipal	Needham
+3200	Municipal	New Ashford
+3201	Municipal	New Bedford
+3202	Municipal	New Braintree
+3203	Municipal	New Marlborough
+3204	Municipal	New Salem
+3205	Municipal	Newbury
+3206	Municipal	Newburyport
+3207	Municipal	Newton
+3208	Municipal	Norfolk
+3209	Municipal	North Adams
+3210	Municipal	North Andover
+3211	Municipal	North Attleborough
+3212	Municipal	North Brookfield
+3213	Municipal	North Reading
+3214	Municipal	Northampton
+3215	Municipal	Northborough
+3216	Municipal	Northbridge
+3217	Municipal	Northfield
+3218	Municipal	Norton
+3219	Municipal	Norwell
+3220	Municipal	Norwood
+3221	Municipal	Oak Bluffs
+3222	Municipal	Oakham
+3223	Municipal	Orange
+3224	Municipal	Orleans
+3225	Municipal	Otis
+3226	Municipal	Oxford
+3227	Municipal	Palmer
+3228	Municipal	Paxton
+3229	Municipal	Peabody
+3230	Municipal	Pelham
+3231	Municipal	Pembroke
+3232	Municipal	Pepperell
+3233	Municipal	Peru
+3234	Municipal	Petersham
+3235	Municipal	Phillipston
+3236	Municipal	Pittsfield
+3237	Municipal	Plainfield
+3238	Municipal	Plainville
+3239	Municipal	Plymouth
+3240	Municipal	Plympton
+3241	Municipal	Princeton
+3242	Municipal	Provincetown
+3243	Municipal	Quincy
+3244	Municipal	Randolph
+3245	Municipal	Raynham
+3246	Municipal	Reading
+3247	Municipal	Rehoboth
+3248	Municipal	Revere
+3249	Municipal	Richmond
+3250	Municipal	Rochester
+3251	Municipal	Rockland
+3252	Municipal	Rockport
+3253	Municipal	Rowe
+3254	Municipal	Rowley
+3255	Municipal	Royalston
+3256	Municipal	Russell
+3257	Municipal	Rutland
+3258	Municipal	Salem
+3259	Municipal	Salisbury
+3260	Municipal	Sandisfield
+3261	Municipal	Sandwich
+3262	Municipal	Saugus
+3263	Municipal	Savoy
+3264	Municipal	Scituate
+3265	Municipal	Seekonk
+3266	Municipal	Sharon
+3267	Municipal	Sheffield
+3268	Municipal	Shelburne
+3269	Municipal	Sherborn
+3270	Municipal	Shirley
+3271	Municipal	Shrewsbury
+3272	Municipal	Shutesbury
+3273	Municipal	Somerset
+3274	Municipal	Somerville
+3275	Municipal	South Hadley
+3276	Municipal	Southampton
+3277	Municipal	Southborough
+3278	Municipal	Southbridge
+3279	Municipal	Southwick
+3280	Municipal	Spencer
+3281	Municipal	Springfield
+3282	Municipal	Sterling
+3283	Municipal	Stockbridge
+3284	Municipal	Stoneham
+3285	Municipal	Stoughton
+3286	Municipal	Stow
+3287	Municipal	Sturbridge
+3288	Municipal	Sudbury
+3289	Municipal	Sunderland
+3290	Municipal	Sutton
+3291	Municipal	Swampscott
+3292	Municipal	Swansea
+3293	Municipal	Taunton
+3294	Municipal	Templeton
+3295	Municipal	Tewksbury
+3296	Municipal	Tisbury
+3297	Municipal	Tolland
+3298	Municipal	Topsfield
+3299	Municipal	Townsend
+3300	Municipal	Truro
+3301	Municipal	Tyngsborough
+3302	Municipal	Tyringham
+3303	Municipal	Upton
+3304	Municipal	Uxbridge
+3305	Municipal	Wakefield
+3306	Municipal	Wales
+3307	Municipal	Walpole
+3308	Municipal	Waltham
+3309	Municipal	Ware
+3310	Municipal	Wareham
+3311	Municipal	Warren
+3312	Municipal	Warwick
+3313	Municipal	Washington
+3314	Municipal	Watertown
+3315	Municipal	Wayland
+3316	Municipal	Webster
+3317	Municipal	Wellesley
+3318	Municipal	Wellfleet
+3319	Municipal	Wendell
+3320	Municipal	Wenham
+3321	Municipal	West Boylston
+3322	Municipal	West Bridgewater
+3323	Municipal	West Brookfield
+3324	Municipal	West Newbury
+3325	Municipal	West Springfield
+3326	Municipal	West Stockbridge
+3327	Municipal	West Tisbury
+3328	Municipal	Westborough
+3329	Municipal	Westfield
+3330	Municipal	Westford
+3331	Municipal	Westhampton
+3332	Municipal	Westminster
+3333	Municipal	Weston
+3334	Municipal	Westport
+3335	Municipal	Westwood
+3336	Municipal	Weymouth
+3337	Municipal	Whately
+3338	Municipal	Whitman
+3339	Municipal	Wilbraham
+3340	Municipal	Williamsburg
+3341	Municipal	Williamstown
+3342	Municipal	Wilmington
+3343	Municipal	Winchendon
+3344	Municipal	Winchester
+3345	Municipal	Windsor
+3346	Municipal	Winthrop
+3347	Municipal	Woburn
+3348	Municipal	Worcester
+3349	Municipal	Worthington
+3350	Municipal	Wrentham
+3351	Municipal	Yarmouth
+4005	Mayoral	Agawam
+4007	Mayoral	Amesbury
+4016	Mayoral	Attleboro
+4030	Mayoral	Beverly
+4035	Mayoral	Boston
+4040	Mayoral	Braintree
+4044	Mayoral	Brockton
+4049	Mayoral	Cambridge
+4061	Mayoral	Chicopee
+4087	Mayoral	Easthampton
+4093	Mayoral	Everett
+4095	Mayoral	Fall River
+4097	Mayoral	Fitchburg
+4100	Mayoral	Framingham
+4103	Mayoral	Gardner
+4107	Mayoral	Gloucester
+4114	Mayoral	Greenfield
+4128	Mayoral	Haverhill
+4137	Mayoral	Holyoke
+4149	Mayoral	Lawrence
+4153	Mayoral	Leominster
+4160	Mayoral	Lowell
+4163	Mayoral	Lynn
+4165	Mayoral	Malden
+4170	Mayoral	Marlborough
+4176	Mayoral	Medford
+4178	Mayoral	Melrose
+4181	Mayoral	Methuen
+4201	Mayoral	New Bedford
+4206	Mayoral	Newburyport
+4207	Mayoral	Newton
+4209	Mayoral	North Adams
+4214	Mayoral	Northampton
+4229	Mayoral	Peabody
+4236	Mayoral	Pittsfield
+4243	Mayoral	Quincy
+4248	Mayoral	Revere
+4258	Mayoral	Salem
+4274	Mayoral	Somerville
+4281	Mayoral	Springfield
+4293	Mayoral	Taunton
+4308	Mayoral	Waltham
+4325	Mayoral	West Springfield
+4329	Mayoral	Westfield
+4336	Mayoral	Weymouth
+4347	Mayoral	Woburn
+4348	Mayoral	Worcester
+5035	City Councilor	Boston
+5044	City Councilor	Brockton
+5049	City Councilor	Cambridge
+5095	City Councilor	Fall River
+5100	City Councilor	Framingham
+5149	City Councilor	Lawrence
+5160	City Councilor	Lowell
+5163	City Councilor	Lynn
+5201	City Councilor	New Bedford
+5207	City Councilor	Newton
+5243	City Councilor	Quincy
+5274	City Councilor	Somerville
+5281	City Councilor	Springfield
+5348	City Councilor	Worcester

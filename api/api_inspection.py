@@ -24,7 +24,7 @@ API_PATHS = [
     # ReportData
     ["reports-log", "reports/log"],
     ["report-example-986767", "report/986767"],
-    ["Reports-legislative-nd-2010", "reports/legislative/race/nd/2010"],
+    ["reports-legislative-nd-2010", "reports/legislative/race/nd/2010"],
     ["reports-legislative-depository-2025", "reports/legislative/race/depository/2025"],
 ]
 

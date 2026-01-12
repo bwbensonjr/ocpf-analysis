@@ -28,6 +28,12 @@ filers <-
     ) |>
     mutate(is_incumbent = (district_code_sought = district_code_held))
 
+read_reports <- function(year) {
+    read_tsv(str_glue("data/reports/{year}/reports.txt")) |>
+        convert_date_columns() |>
+        clean_names()
+}
+
 reports <- read_tsv("data/reports/reports.txt") |>
     convert_date_columns() |>
     clean_names()

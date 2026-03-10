@@ -52,6 +52,42 @@ def build_full_name(first: str, middle: str, last: str) -> str:
     return " ".join(parts)
 
 
+def lookup_incumbent(district_code: int) -> str:
+    """Look up the incumbent display name for a district code."""
+    try:
+        incumbents = fetch_incumbents(district_code)
+        for inc in incumbents:
+            if inc.get("districtCodeHeld") == district_code:
+                inc_name = inc.get("candidateFullName", "")
+                inc_party = inc.get("partyAffiliation", "")
+                inc_city = inc.get("candidateCity", "")
+                return format_display_name(inc_name, inc_party, inc_city)
+    except requests.RequestException:
+        pass
+    return ""
+
+
+def backfill_incumbents(df: pd.DataFrame) -> int:
+    """Re-check incumbent for rows with empty incumbent_display."""
+    count = 0
+    for idx, row in df.iterrows():
+        val = row["incumbent_display"]
+        if pd.notna(val) and val != "":
+            continue
+        cpf_id = int(row["cpf_id"])
+        details = fetch_filer_details(cpf_id)
+        office_sought = details.get("officeSought") or {}
+        district_code = office_sought.get("districtCode")
+        if not district_code:
+            continue
+        incumbent = lookup_incumbent(district_code)
+        if incumbent:
+            print(f"  Backfill {cpf_id}: {incumbent}")
+            df.at[idx, "incumbent_display"] = incumbent
+            count += 1
+    return count
+
+
 def main():
     # Step 1: Fetch recent filers
     print("Fetching recently organized filers...")
@@ -63,10 +99,6 @@ def main():
     known_ids = set(df_existing["cpf_id"].dropna().astype(int))
     new_filers = [f for f in recent if f["cpfId"] not in known_ids]
     print(f"  {len(new_filers)} new filers to add")
-
-    if not new_filers:
-        print("No new filers. Done.")
-        return
 
     # Step 3-6: Process each new filer
     new_rows = []
@@ -100,24 +132,12 @@ def main():
         # Incumbent lookup
         incumbent_display = ""
         if district_code:
-            try:
-                incumbents = fetch_incumbents(district_code)
-                for inc in incumbents:
-                    if inc.get("isIncumbent"):
-                        inc_name = inc.get("candidateFullName", "")
-                        inc_party = inc.get("partyAffiliation", "")
-                        inc_city = inc.get("candidateCity", "")
-                        incumbent_display = format_display_name(
-                            inc_name, inc_party, inc_city
-                        )
-                        break
-            except requests.RequestException:
-                pass
+            incumbent_display = lookup_incumbent(district_code)
 
-        # Parse organization date from M/D/YYYY to YYYY-MM-DD
+        # Format organization date as M/D/YY
         org_date_raw = filer.get("organizationDate", "")
         try:
-            org_date = pd.to_datetime(org_date_raw).strftime("%Y-%m-%d")
+            org_date = pd.to_datetime(org_date_raw).strftime("%-m/%-d/%y")
         except (ValueError, TypeError):
             org_date = org_date_raw
 
@@ -135,12 +155,17 @@ def main():
             }
         )
 
-    # Combine and sort
-    df_new = pd.DataFrame(new_rows)
-    df_combined = pd.concat([df_existing, df_new], ignore_index=True)
-    df_combined = df_combined.sort_values(
-        "organization_date", ascending=False
-    ).reset_index(drop=True)
+    # Combine new rows with existing data
+    if new_rows:
+        df_new = pd.DataFrame(new_rows)
+        df_combined = pd.concat([df_new, df_existing], ignore_index=True)
+    else:
+        df_combined = df_existing
+
+    # Backfill missing incumbents
+    print("Backfilling missing incumbents...")
+    backfilled = backfill_incumbents(df_combined)
+    print(f"  Backfilled {backfilled} rows")
 
     # Write back
     df_combined.to_csv(CSV_PATH, index=False)

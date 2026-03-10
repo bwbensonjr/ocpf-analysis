@@ -9,14 +9,104 @@ data. In terms of direct data access for external analysis, there is a
 [data download page](https://www.ocpf.us/Data/Downloads) and also a
 set of RESt API endpoints hosted at <https://apis.ocpf.us>.
 
-## Understanding the data model view API result inspection
+## Recent Filers
 
-We would like to understand the OCPF data model by using the API
-endpoint definitions and samples of their output.
-
-We will start with these endpoints:
-
-### Reference
-
-
-
+| Date | Candidate | Office | District | Incumbent | Reason |
+| --- | --- | --- | --- | --- | --- |
+| 3/9/26 | [Jack P. Richardson (D-East Falmouth)](https://www.ocpf.us/Filers/Index?cpfId=19220) | House | 3rd Barnstable | David T. Vieira (R-E. Falmouth) | [Challenge](https://www.capenews.net/falmouth/news/richardson-sets-sights-on-vieiras-seat/article_a5bb44b4-68b4-4516-8e75-f476e5299de6.html) |
+| 3/9/26 | [Margaret Mary Abboud (R-Worcester)](https://www.ocpf.us/Filers/Index?cpfId=17960) | Governor's Council | 7th District | Paul M. DePalo (D-Worcester) | Challenge |
+| 3/6/26 | [Neil S. Miller (D-Cambridge)](https://www.ocpf.us/Filers/Index?cpfId=19716) | House | 26th Middlesex | Michael L. Connolly (D-Cambridge) | [Challenge](https://www.cambridgeday.com/2026/03/04/ewen-campen-seeks-state-rep/) |
+| 3/6/26 | [Lisa Ruth Lopez (D-Canton)](https://www.ocpf.us/Filers/Index?cpfId=19715) | House | 6th Norfolk | William C. Galvin (D-Canton) | [Open](https://www.wwlp.com/news/massachusetts/rep-galvin-of-canton-will-not-seek-reelection/) |
+| 3/5/26 | [Leila Migliorelli (D-Melrose)](https://www.ocpf.us/Filers/Index?cpfId=19713) | House | 32nd Middlesex | Kate Lipper-Garabedian (D-Melrose) | [Open](https://www.kateforrep.com/updates/title) |
+| 3/4/26 | [John Higgins (D-Malden)](https://www.ocpf.us/Filers/Index?cpfId=19711) | House | 32nd Middlesex | Kate Lipper-Garabedian (D-Melrose) | [Open](https://www.kateforrep.com/updates/title) |
+| 3/3/26 | [John Reilly (U-ASHBURNHAM)](https://www.ocpf.us/Filers/Index?cpfId=19709) | House | 2nd Worcester | Jonathan D. Zlotnik (D-Gardner) | Challenge |
+| 3/3/26 | [Anne M. Manning Martin (R-Peabody)](https://www.ocpf.us/Filers/Index?cpfId=13923) | Statewide | Lieutenant Governor | Kimberley Driscoll (D-Salem) | [Challenge](https://www.wgbh.org/news/politics/2026-03-04/anne-manning-martin-joins-the-republican-race-for-lieutenant-governor) |
+| 2/26/26 | [Stephen J. Medeiros (D-Dartmouth)](https://www.ocpf.us/Filers/Index?cpfId=19701) | House | 9th Bristol | Christopher M. Markey (D-Dartmouth) |  |
+| 2/25/26 | [Christopher R. Oates (D-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19699) | House | 34th Middlesex | Christine P. Barber (D-Somerville) |  |
+| 2/25/26 | [Robert William Merrill (R-Lynn)](https://www.ocpf.us/Filers/Index?cpfId=15423) | Statewide | Governor | Maura T. Healey (D-Arlington) |  |
+| 2/24/26 | [Paul R. Ruseau (D-Medford)](https://www.ocpf.us/Filers/Index?cpfId=17852) | House | 34th Middlesex | Christine P. Barber (D-Somerville) |  |
+| 2/24/26 | [Domenic D. Mercurio (D-Worcester)](https://www.ocpf.us/Filers/Index?cpfId=17557) | House | 15th Worcester | Mary S. Keefe (D-Worcester) |  |
+| 2/24/26 | [Lora L. Wondolowski (D-Greenfield)](https://www.ocpf.us/Filers/Index?cpfId=19697) | House | 1st Franklin |  |  |
+| 2/24/26 | [Jadon Wilson (D-Reading)](https://www.ocpf.us/Filers/Index?cpfId=19696) | House | 30th Middlesex | Richard M. Haggerty (D-Woburn) |  |
+| 2/19/26 | [Devin Allen Kreinbring (U-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19691) | House | 10th Suffolk | William F. MacGregor (D-West Roxbury) |  |
+| 2/18/26 | [Jordan Korgood (D-Roxbury)](https://www.ocpf.us/Filers/Index?cpfId=19690) | Governor's Council | 4th District | Christopher A. Iannella Jr. (D-Jamaica Plain) |  |
+| 2/18/26 | [Steven Berry (D-Jamaica Plain)](https://www.ocpf.us/Filers/Index?cpfId=19177) | House | 15th Suffolk | Samantha Victoria Montano (D-Boston) |  |
+| 2/17/26 | [Seartch Delva (D-Lynn)](https://www.ocpf.us/Filers/Index?cpfId=19689) | Statewide | Governor | Maura T. Healey (D-Arlington) |  |
+| 2/17/26 | [Ronald Bernard Waddell (D-Worcester)](https://www.ocpf.us/Filers/Index?cpfId=19688) | House | 15th Worcester | Mary S. Keefe (D-Worcester) |  |
+| 2/17/26 | [Harini S. Aiyer (D-Lowell)](https://www.ocpf.us/Filers/Index?cpfId=19687) | House | 17th Middlesex | Vanna Howard (D-Lowell) |  |
+| 2/17/26 | [Michael C. Walsh (R-Lynnfield)](https://www.ocpf.us/Filers/Index?cpfId=18059) | Statewide | Attorney General | Andrea Joy Campbell (D-Dartmouth) |  |
+| 2/13/26 | [Dori Dean (D-Holyoke)](https://www.ocpf.us/Filers/Index?cpfId=19685) | House | 5th Hampden | Patricia A. Duffy (D-Holyoke) |  |
+| 2/12/26 | [Talos Farris (R-Fall River)](https://www.ocpf.us/Filers/Index?cpfId=19684) | House | 7th Bristol | Alan Silvia (D-Fall River) |  |
+| 2/11/26 | [Ravi Simon (D-Sudbury)](https://www.ocpf.us/Filers/Index?cpfId=19682) | House | 13th Middlesex | Carmine Lawrence Gentile (D-Sudbury) |  |
+| 2/11/26 | [Edward M. Pacheco (D-Dartmouth)](https://www.ocpf.us/Filers/Index?cpfId=19681) | House | 9th Bristol | Christopher M. Markey (D-Dartmouth) |  |
+| 2/10/26 | [Stephen Mathew Cavey (D-Stoughton)](https://www.ocpf.us/Filers/Index?cpfId=19680) | House | 6th Norfolk | William C. Galvin (D-Canton) |  |
+| 2/10/26 | [Michael Loughran (D-Canton)](https://www.ocpf.us/Filers/Index?cpfId=19678) | House | 6th Norfolk | William C. Galvin (D-Canton) |  |
+| 2/10/26 | [Macy Lee (U-Milton)](https://www.ocpf.us/Filers/Index?cpfId=19677) | District Attorney | Norfolk District - Norfolk County | Michael W. Morrissey (D-Quincy) |  |
+| 2/10/26 | [Michael K. Giardino (D-Hyannis)](https://www.ocpf.us/Filers/Index?cpfId=19676) | District Attorney | Cape & Islands District - Barnstable, Dukes & Nantucket County | Robert J. Galibois II (D-West Barnstable) |  |
+| 2/9/26 | [Gaige Clark (D-Clinton)](https://www.ocpf.us/Filers/Index?cpfId=19675) | House | 3rd Worcester | Michael P. Kushmerek (D-Fitchburg) |  |
+| 2/9/26 | [D'Mitri Agnes (D-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19674) | House | 13th Suffolk | Daniel J. Hunt (D-Dorchester) |  |
+| 2/9/26 | [Daniel F. Graves (D-South Deerfield)](https://www.ocpf.us/Filers/Index?cpfId=19672) | Register of Probate | Franklin County | John F. Merrigan (D-Greenfield) |  |
+| 2/9/26 | [Amy Elizabeth Lavallee (U-Whately)](https://www.ocpf.us/Filers/Index?cpfId=19671) | House | 1st Franklin |  |  |
+| 2/6/26 | [Daniel Gessen (D-Falmouth)](https://www.ocpf.us/Filers/Index?cpfId=17554) | County Commissioner | Barnstable County | Ronald Bergstrom (D-Chatham) |  |
+| 2/6/26 | [Gregory Connor (D-Milton)](https://www.ocpf.us/Filers/Index?cpfId=19668) | District Attorney | Norfolk District - Norfolk County | Michael W. Morrissey (D-Quincy) |  |
+| 2/4/26 | [Micah-Shalom Kesselman (D-Medford)](https://www.ocpf.us/Filers/Index?cpfId=19666) | House | 34th Middlesex | Christine P. Barber (D-Somerville) |  |
+| 2/4/26 | [Joseph B. Glynn (U-Yarmouth)](https://www.ocpf.us/Filers/Index?cpfId=16509) | House | 1st Barnstable | Christopher Richard Flanagan (D-Dennis Port) |  |
+| 2/2/26 | [Nomita Ganguly (D-Belmont)](https://www.ocpf.us/Filers/Index?cpfId=19662) | House | 24th Middlesex | David M. Rogers (D-Cambridge) |  |
+| 2/2/26 | [Andrew James Fitch (D-North Adams)](https://www.ocpf.us/Filers/Index?cpfId=19661) | House | 1st Berkshire | John Barrett III (D-North Adams) |  |
+| 1/29/26 | [Johnathan Creque (D-Greenfield)](https://www.ocpf.us/Filers/Index?cpfId=19660) | House | 1st Franklin |  |  |
+| 1/28/26 | [David A. Wemhoener (D-South Deerfield)](https://www.ocpf.us/Filers/Index?cpfId=19659) | House | 1st Franklin |  |  |
+| 1/27/26 | [Gilbert Frieden (U-ESSEX)](https://www.ocpf.us/Filers/Index?cpfId=19658) | House | 5th Essex |  |  |
+| 1/27/26 | [Thomas David Hendrickson (D-Feeding Hills)](https://www.ocpf.us/Filers/Index?cpfId=19450) | House | 3rd Hampden | Nick A. Boldyga (R-Southwick) |  |
+| 1/26/26 | [Corinne Coryat (D-Deerfield)](https://www.ocpf.us/Filers/Index?cpfId=19657) | House | 1st Franklin |  |  |
+| 1/21/26 | [Sean Diamond (U-Waltham)](https://www.ocpf.us/Filers/Index?cpfId=18756) | City Councilor | Waltham | Colleen M. Bradley-MacArthur (D-Waltham) |  |
+| 1/20/26 | [Ming Zhang (U-Westford)](https://www.ocpf.us/Filers/Index?cpfId=19644) | Senate | Worcester & Middlesex | John Cronin (D-Fitchburg) |  |
+| 1/15/26 | [Glenn McLeod (R-Lunenburg)](https://www.ocpf.us/Filers/Index?cpfId=19471) | House | 1st Middlesex | Margaret R. Scarsdale (D-Pepperell) |  |
+| 1/15/26 | [Shannon M. Teabo (D-West Brookfield)](https://www.ocpf.us/Filers/Index?cpfId=19633) | Senate | Worcester and Hampshire | Peter J. Durant (R-Spencer) |  |
+| 1/14/26 | [Christopher M. Lyons (R-Ashby)](https://www.ocpf.us/Filers/Index?cpfId=19629) | House | 1st Middlesex | Margaret R. Scarsdale (D-Pepperell) |  |
+| 1/13/26 | [David M. Golden (R-Plymouth)](https://www.ocpf.us/Filers/Index?cpfId=19628) | House | 1st Plymouth | Michelle L. Badger (D-Plymouth) |  |
+| 1/12/26 | [Barur R. Rajeshkumar (D-West Boylston)](https://www.ocpf.us/Filers/Index?cpfId=19623) | House | 14th Worcester | James J. O'Day (D-West Boylston) |  |
+| 1/9/26 | [Tara Jean Martorella (U-Everett)](https://www.ocpf.us/Filers/Index?cpfId=19616) | Register of Probate | Middlesex County | Tara DeCristofaro (D-Medford) |  |
+| 1/8/26 | [Mark E. Townsend (R-Carver)](https://www.ocpf.us/Filers/Index?cpfId=19621) | House | 2nd Plymouth | John R. Gaskey (R-Carver) |  |
+| 1/6/26 | [Joe Espinola (U-Dracut)](https://www.ocpf.us/Filers/Index?cpfId=16979) | Senate | 1st Middlesex |  |  |
+| 1/2/26 | [Stephanie R. Mulroy (R-HOLDEN)](https://www.ocpf.us/Filers/Index?cpfId=19288) | House | 1st Worcester | Kimberly N. Ferguson (R-Holden) |  |
+| 12/30/25 | [Nicole Gough (R-Phillipston)](https://www.ocpf.us/Filers/Index?cpfId=19606) | House | 2nd Franklin | Susannah M. Whipps (U-Athol) |  |
+| 12/24/25 | [Michael F. Zullas (D-Milton)](https://www.ocpf.us/Filers/Index?cpfId=16410) | Senate | Norfolk, Plymouth and Bristol | William J. Driscoll Jr. (D-Milton) |  |
+| 12/19/25 | [Ashley Marie Sullivan (R-Gloucester)](https://www.ocpf.us/Filers/Index?cpfId=17678) | House | 5th Essex |  |  |
+| 12/18/25 | [Christina S. Delisio (R-Manchester)](https://www.ocpf.us/Filers/Index?cpfId=19596) | House | 5th Essex |  |  |
+| 12/17/25 | [John Norris (R-Bridgewater)](https://www.ocpf.us/Filers/Index?cpfId=19593) | House | 8th Plymouth | Dennis C. Gallagher (D-Bridgewater) |  |
+| 12/16/25 | [Thomas Hopcroft (D-WINCHESTER)](https://www.ocpf.us/Filers/Index?cpfId=19589) | Senate | 2nd Middlesex | Patricia D. Jehlen (D-Somerville) |  |
+| 12/15/25 | [Daniel Lander (D-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19588) | Senate | Suffolk and Middlesex | William N. Brownsberger (D-Belmont) |  |
+| 12/11/25 | [Connor A. Murray (D-Andover)](https://www.ocpf.us/Filers/Index?cpfId=19583) | House | 18th Essex | Tram Nguyen (D-Andover) |  |
+| 12/9/25 | [Elizabeth Harmer Dionne (R-Belmont)](https://www.ocpf.us/Filers/Index?cpfId=19582) | Statewide | Treasurer of the Commonwealth | Deborah Goldberg (D-Brookline) |  |
+| 12/9/25 | [Jamison Souza (D-Somerset)](https://www.ocpf.us/Filers/Index?cpfId=19581) | House | 5th Bristol | Justin Thurber (R-Somerset) |  |
+| 12/8/25 | [Andrew F. Tarr (D-Gloucester)](https://www.ocpf.us/Filers/Index?cpfId=19580) | House | 5th Essex |  |  |
+| 12/8/25 | [Sarah Jane Wilkinson (D-Rockport)](https://www.ocpf.us/Filers/Index?cpfId=19579) | House | 5th Essex |  |  |
+| 12/5/25 | [Chester Tam (R-Dartmouth)](https://www.ocpf.us/Filers/Index?cpfId=19031) | House | 9th Bristol | Christopher M. Markey (D-Dartmouth) |  |
+| 12/4/25 | [Jenifer Heck (D-Sutton)](https://www.ocpf.us/Filers/Index?cpfId=19573) | House | 18th Worcester | Joseph D. McKenna (R-Sutton) |  |
+| 12/2/25 | [Neheet N. Trivedi (D-Cambridge)](https://www.ocpf.us/Filers/Index?cpfId=19570) | Senate | 2nd Middlesex | Patricia D. Jehlen (D-Somerville) |  |
+| 12/1/25 | [Theodore Semesnyei (R-Amesbury)](https://www.ocpf.us/Filers/Index?cpfId=17269) | Senate | 2nd Essex & Middlesex | Barry R. Finegold (D-Andover) |  |
+| 12/1/25 | [Latoya Gayle (D-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19569) | Senate | 1st Suffolk | Nicholas P. Collins (D-South Boston) |  |
+| 11/21/25 | [Nicholas John Lazzaro (D-Millbury)](https://www.ocpf.us/Filers/Index?cpfId=19564) | House | 7th Worcester | Paul K. Frost (R-Auburn) |  |
+| 11/21/25 | [Andrew Nelson (U-Attleboro)](https://www.ocpf.us/Filers/Index?cpfId=18640) | House | 2nd Bristol | James K. Hawkins (D-Attleboro) |  |
+| 11/19/25 | [Christopher Charles Shepley (R-Andover)](https://www.ocpf.us/Filers/Index?cpfId=18829) | House | 18th Essex | Tram Nguyen (D-Andover) |  |
+| 11/18/25 | [Adam W. Deitch (D-Quincy)](https://www.ocpf.us/Filers/Index?cpfId=19563) | District Attorney | Norfolk District - Norfolk County | Michael W. Morrissey (D-Quincy) |  |
+| 11/18/25 | [Dominic S. Giannone (U-Weymouth)](https://www.ocpf.us/Filers/Index?cpfId=17540) | House | 4th Norfolk | James M. Murphy (D-Weymouth) |  |
+| 11/14/25 | [Kerry Hope Baxter Rzasa (U-Chicopee)](https://www.ocpf.us/Filers/Index?cpfId=19559) | Statewide | Governor | Maura T. Healey (D-Arlington) |  |
+| 11/12/25 | [Malik Alexander Shaw (D-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19556) | Senate | 1st Suffolk | Nicholas P. Collins (D-South Boston) |  |
+| 11/10/25 | [Alexander Mendez (U-Quincy)](https://www.ocpf.us/Filers/Index?cpfId=16239) | Senate | Norfolk & Plymouth | John F. Keenan (D-Quincy) |  |
+| 11/4/25 | [Kenneth P. Ferris (D-Pittsfield)](https://www.ocpf.us/Filers/Index?cpfId=19544) | Register of Probate | Berkshire County | Anthony P. Patella (D-Lenox) |  |
+| 11/3/25 | [Adam M. Hogue (R-West Hyannisport)](https://www.ocpf.us/Filers/Index?cpfId=19542) | County Commissioner | Barnstable County | Ronald Bergstrom (D-Chatham) |  |
+| 10/28/25 | [Christopher Lambton (D-Dennis)](https://www.ocpf.us/Filers/Index?cpfId=19528) | House | 1st Barnstable | Christopher Richard Flanagan (D-Dennis Port) |  |
+| 10/22/25 | [Steven R. Nason (R-Worcester)](https://www.ocpf.us/Filers/Index?cpfId=19482) | Statewide | Governor | Maura T. Healey (D-Arlington) |  |
+| 10/21/25 | [Judith Nelson (D-Brockton)](https://www.ocpf.us/Filers/Index?cpfId=19323) | City Councilor | Brockton | Shirley R. Asack (D-Brockton) |  |
+| 10/16/25 | [Ian Marcus Saunders (R-New Bedford)](https://www.ocpf.us/Filers/Index?cpfId=18575) | City Councilor | New Bedford | Ian Abreu (D-New Bedford) |  |
+| 10/14/25 | [Lori F. Childs (D-Rockland)](https://www.ocpf.us/Filers/Index?cpfId=19460) | House | 5th Plymouth | David F. DeCoste (R-Norwell) |  |
+| 10/8/25 | [Thomas R. Melville (D-Medfield)](https://www.ocpf.us/Filers/Index?cpfId=19447) | House | 9th Norfolk | Marcus Vaughn (R-Wrentham) |  |
+| 10/7/25 | [Peter Warren (R-Monson)](https://www.ocpf.us/Filers/Index?cpfId=19442) | House | 2nd Hampden | Brian M. Ashe (D-Longmeadow) |  |
+| 10/1/25 | [Michael R. Minogue (R-South Hamilton)](https://www.ocpf.us/Filers/Index?cpfId=19431) | Statewide | Governor | Maura T. Healey (D-Arlington) |  |
+| 9/26/25 | [Persis Yu (D-Hyde Park)](https://www.ocpf.us/Filers/Index?cpfId=19426) | Senate | Norfolk & Suffolk | Michael F. Rush (D-West Roxbury) |  |
+| 9/25/25 | [Brandon L. Wright (U-Lowell)](https://www.ocpf.us/Filers/Index?cpfId=19425) | City Councilor | Lowell | Sokhary Chan Chau (D-Lowell) |  |
+| 9/24/25 | [Lorena G. Betts (D-North Chelmsford)](https://www.ocpf.us/Filers/Index?cpfId=19424) | House | 16th Middlesex | Rodney Elliott (D-Lowell) |  |
+| 9/23/25 | [David M. Solet (D-Cambridge)](https://www.ocpf.us/Filers/Index?cpfId=19422) | District Attorney | Northern District - Middlesex County | Marian Teresa Ryan (D-Belmont) |  |
+| 9/22/25 | [Veronica Aurora Rodriguez (D-Haverhill)](https://www.ocpf.us/Filers/Index?cpfId=19419) | City Councilor | Haverhill | Ralph T. Basiliere (D-Haverhill) |  |
+| 9/12/25 | [Anne Brensley (R-Wayland)](https://www.ocpf.us/Filers/Index?cpfId=19400) | Statewide | Lieutenant Governor | Kimberley Driscoll (D-Salem) |  |

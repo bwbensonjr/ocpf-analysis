@@ -1,11 +1,15 @@
 """Query recent filers and update CSV."""
 
+import re
+
 import pandas as pd
 import requests
 from pathlib import Path
 
 BASE_URL = "https://api.ocpf.us/"
-CSV_PATH = Path(__file__).parent.parent / "data" / "recent-filers.csv"
+ROOT_DIR = Path(__file__).parent.parent
+CSV_PATH = ROOT_DIR / "data" / "recent-filers.csv"
+README_PATH = ROOT_DIR / "README.md"
 
 
 def fetch_recent_filers() -> list[dict]:
@@ -170,6 +174,55 @@ def main():
     # Write back
     df_combined.to_csv(CSV_PATH, index=False)
     print(f"Wrote {len(df_combined)} rows to {CSV_PATH}")
+
+    # Update README
+    update_readme(df_combined)
+
+
+def update_readme(df: pd.DataFrame):
+    """Rewrite the ## Recent Filers section of README.md with a Markdown table."""
+    readme_text = README_PATH.read_text()
+
+    # Build Markdown table
+    columns = {
+        "organization_date": "Date",
+        "candidate_display": "Candidate",
+        "office": "Office",
+        "district": "District",
+        "incumbent_display": "Incumbent",
+        "reason": "Reason",
+    }
+    header = "| " + " | ".join(columns.values()) + " |"
+    separator = "| " + " | ".join("---" for _ in columns) + " |"
+    rows = [header, separator]
+    for _, row in df.iterrows():
+        cells = []
+        for col in columns:
+            val = row[col]
+            val = str(val) if pd.notna(val) else ""
+            if col == "candidate_display" and val:
+                cpf_id = int(row["cpf_id"])
+                url = f"https://www.ocpf.us/Filers/Index?cpfId={cpf_id}"
+                val = f"[{val}]({url})"
+            elif col == "reason" and val:
+                link = row["link"]
+                if pd.notna(link) and link:
+                    val = f"[{val}]({link})"
+            cells.append(val)
+        rows.append("| " + " | ".join(cells) + " |")
+    table = "\n".join(rows)
+
+    # Replace the ## Recent Filers section (up to next ## or end of file)
+    section = f"## Recent Filers\n\n{table}\n"
+    new_text = re.sub(
+        r"## Recent Filers\n.*?(?=\n## |\Z)",
+        section,
+        readme_text,
+        flags=re.DOTALL,
+    )
+
+    README_PATH.write_text(new_text)
+    print(f"Updated {README_PATH}")
 
 
 if __name__ == "__main__":

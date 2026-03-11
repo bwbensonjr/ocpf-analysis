@@ -39,37 +39,37 @@ cpf_id,organization_date,candidate_display,address,office,district,incumbent_dis
 17554,2/6/26,Daniel Gessen (D-Falmouth),"30 Sippewissett rd Falmouth, MA 02540",County Commissioner,Barnstable County,Ronald Bergstrom (D-Chatham),,
 19668,2/6/26,Gregory Connor (D-Milton),"4 Stoddard Ln Milton, MA 02186",District Attorney,Norfolk District - Norfolk County,Michael W. Morrissey (D-Quincy),Open,https://www.wbur.org/news/2026/01/13/michael-morrissey-norfolk-district-attorney-reelection-karen-read-birchmore-controversy
 19666,2/4/26,Micah-Shalom Kesselman (D-Medford),"499 Main Street Medford, MA 02155",House,34th Middlesex,Christine P. Barber (D-Somerville),Open,https://www.thesomervilletimes.com/archives/145252
-16509,2/4/26,Joseph B. Glynn (U-Yarmouth),"822 Route 28 Suite #138 Yarmouth, MA 02664",House,1st Barnstable,Christopher Richard Flanagan (D-Dennis Port),,
-19662,2/2/26,Nomita Ganguly (D-Belmont),"193 Orchard Street Belmont, MA 02478",House,24th Middlesex,David M. Rogers (D-Cambridge),,
-19661,2/2/26,Andrew James Fitch (D-North Adams),"20 East Quincy Street North Adams, MA 01247",House,1st Berkshire,John Barrett III (D-North Adams),,
+16509,2/4/26,Joseph B. Glynn (U-Yarmouth),"822 Route 28 Suite #138 Yarmouth, MA 02664",House,1st Barnstable,Christopher Richard Flanagan (D-Dennis Port),Challenge,https://www.wbur.org/news/2025/10/29/chris-lambton-chris-flanagan-cape-cod-house-campaign
+19662,2/2/26,Nomita Ganguly (D-Belmont),"193 Orchard Street Belmont, MA 02478",House,24th Middlesex,David M. Rogers (D-Cambridge),Challenge,
+19661,2/2/26,Andrew James Fitch (D-North Adams),"20 East Quincy Street North Adams, MA 01247",House,1st Berkshire,John Barrett III (D-North Adams),Challenge,https://www.wamc.org/news/2026-02-03/north-adams-city-councilor-vp-fitch-says-hes-running-in-the-democratic-primary-for-1st-berkshire-district-state-house-seat
 19660,1/29/26,Johnathan Creque (D-Greenfield),"17 Cedar Glen Greenfield, MA 01301",House,1st Franklin,Natalie M. Blais (D-Deerfield),Open,https://recorder.com/2026/01/09/rep-natalie-blais-stepping-down/
 19659,1/28/26,David A. Wemhoener (D-South Deerfield),"24 Elm Circle South Deerfield, MA 01373",House,1st Franklin,Natalie M. Blais (D-Deerfield),Open,https://recorder.com/2026/01/09/rep-natalie-blais-stepping-down/
 19658,1/27/26,Gilbert Frieden (U-ESSEX),"104 John Wise Ave #474 ESSEX, MA 01929",House,5th Essex,Ann-Margaret Ferrante (D-Gloucester),Open,https://www.nbcboston.com/news/local/gloucester-mass-rep-ann-margaret-ferrante-dies/3851900/
 19450,1/27/26,Thomas David Hendrickson (D-Feeding Hills),"223 Clover Hill Drive Feeding Hills, MA 01030",House,3rd Hampden,Nick A. Boldyga (R-Southwick),Challenge,https://thereminder.com/local-news/hampden-county/agawam/agawam-councilor-to-challenge-boldyga/
-19657,1/26/26,Corinne Coryat (D-Deerfield),"271 Pine Nook Road Deerfield, MA 01342",House,1st Franklin,,,
+19657,1/26/26,Corinne Coryat (D-Deerfield),"271 Pine Nook Road Deerfield, MA 01342",House,1st Franklin,Natalie M. Blais (D-Deerfield),Open,https://recorder.com/2026/01/09/rep-natalie-blais-stepping-down/
 18756,1/21/26,Sean Diamond (U-Waltham),"3 Marlton Rd Waltham, MA 02453",City Councilor,Waltham,Colleen M. Bradley-MacArthur (D-Waltham),,
-19644,1/20/26,Ming Zhang (U-Westford),"15 Patriot Lane Westford, MA 01886",Senate,Worcester & Middlesex,John Cronin (D-Fitchburg),,
-19471,1/15/26,Glenn McLeod (R-Lunenburg),"436 Reservoir Road Lunenburg, MA 01462",House,1st Middlesex,Margaret R. Scarsdale (D-Pepperell),,
-19633,1/15/26,Shannon M. Teabo (D-West Brookfield),"36 Ragged Hill Road West Brookfield, MA 01585",Senate,Worcester and Hampshire,Peter J. Durant (R-Spencer),,
-19629,1/14/26,Christopher M. Lyons (R-Ashby),"661 Piper Rd, Ashby, MA 01431",House,1st Middlesex,Margaret R. Scarsdale (D-Pepperell),,
-19628,1/13/26,David M. Golden (R-Plymouth),"14 Reed Ave. Plymouth, MA 02360",House,1st Plymouth,Michelle L. Badger (D-Plymouth),,
-19623,1/12/26,Barur R. Rajeshkumar (D-West Boylston),"305 Goodale St West Boylston, MA 01583",House,14th Worcester,James J. O'Day (D-West Boylston),,
+19644,1/20/26,Ming Zhang (U-Westford),"15 Patriot Lane Westford, MA 01886",Senate,Worcester & Middlesex,John Cronin (D-Fitchburg),Challenge,
+19471,1/15/26,Glenn McLeod (R-Lunenburg),"436 Reservoir Road Lunenburg, MA 01462",House,1st Middlesex,Margaret R. Scarsdale (D-Pepperell),Challenge,https://www.glennforrep.com/
+19633,1/15/26,Shannon M. Teabo (D-West Brookfield),"36 Ragged Hill Road West Brookfield, MA 01585",Senate,Worcester and Hampshire,Peter J. Durant (R-Spencer),Challenge,https://www.mobilize.us/mobilize/event/897134/
+19629,1/14/26,Christopher M. Lyons (R-Ashby),"661 Piper Rd, Ashby, MA 01431",House,1st Middlesex,Margaret R. Scarsdale (D-Pepperell),Challenge,https://www.votechrislyons.com/
+19628,1/13/26,David M. Golden (R-Plymouth),"14 Reed Ave. Plymouth, MA 02360",House,1st Plymouth,Michelle L. Badger (D-Plymouth),Challenge,https://www.plymouthindependent.org/golden-announces-republican-bid-for-state-representative/
+19623,1/12/26,Barur R. Rajeshkumar (D-West Boylston),"305 Goodale St West Boylston, MA 01583",House,14th Worcester,James J. O'Day (D-West Boylston),Challenge,https://www.rajforstaterep.com/
 19616,1/9/26,Tara Jean Martorella (U-Everett),"181 Bucknam Street Everett, MA 02149",Register of Probate,Middlesex County,Tara DeCristofaro (D-Medford),,
-19621,1/8/26,Mark E. Townsend (R-Carver),"10 Harvest View Way Carver, MA 02330",House,2nd Plymouth,John R. Gaskey (R-Carver),,
-16979,1/6/26,Joe Espinola (U-Dracut),"1 Strawberry Lane Dracut, MA 01826",Senate,1st Middlesex,,,
-19288,1/2/26,Stephanie R. Mulroy (R-HOLDEN),"120 Harris Street HOLDEN, MA 01520",House,1st Worcester,Kimberly N. Ferguson (R-Holden),,
-19606,12/30/25,Nicole Gough (R-Phillipston),"130 Queen Lake Road Phillipston, MA 01331",House,2nd Franklin,Susannah M. Whipps (U-Athol),,
+19621,1/8/26,Mark E. Townsend (R-Carver),"10 Harvest View Way Carver, MA 02330",House,2nd Plymouth,John R. Gaskey (R-Carver),Challenge,https://wareham.theweektoday.com/article/two-candidates-announce-campaigns-2026-2nd-plymouth-district-state-representative-seat
+16979,1/6/26,Joe Espinola (U-Dracut),"1 Strawberry Lane Dracut, MA 01826",Senate,1st Middlesex,Edward J. Kennedy (D-Lowell),Open,https://www.masslive.com/politics/2025/10/lowell-state-sen-edward-kennedy-has-died-remembered-as-a-steadfast-advocate-for-his-city.html
+19288,1/2/26,Stephanie R. Mulroy (R-HOLDEN),"120 Harris Street HOLDEN, MA 01520",House,1st Worcester,Kimberly N. Ferguson (R-Holden),Open,https://www.telegram.com/story/news/politics/2025/12/08/rep-kimberly-ferguson-wont-run-for-reelection-to-ma-house-of-reps/87672408007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z113402p119450n00----c00----v113402&gca-ft=84&gca-ds=sophi
+19606,12/30/25,Nicole Gough (R-Phillipston),"130 Queen Lake Road Phillipston, MA 01331",House,2nd Franklin,Susannah M. Whipps (U-Athol),Challenge,
 16410,12/24/25,Michael F. Zullas (D-Milton),"69 Fairbanks Road Milton, MA 02186",Senate,"Norfolk, Plymouth and Bristol",William J. Driscoll Jr. (D-Milton),,
-17678,12/19/25,Ashley Marie Sullivan (R-Gloucester),"114 E Main St Gloucester, MA 01930",House,5th Essex,,,
-19596,12/18/25,Christina S. Delisio (R-Manchester),"6 Lincoln Ave Manchester, MA 01944",House,5th Essex,,,
+17678,12/19/25,Ashley Marie Sullivan (R-Gloucester),"114 E Main St Gloucester, MA 01930",House,5th Essex,Ann-Margaret Ferrante (D-Gloucester),,
+19596,12/18/25,Christina S. Delisio (R-Manchester),"6 Lincoln Ave Manchester, MA 01944",House,5th Essex,Ann-Margaret Ferrante (D-Gloucester),,
 19593,12/17/25,John Norris (R-Bridgewater),"1297 Vernon St. Bridgewater, MA 02324",House,8th Plymouth,Dennis C. Gallagher (D-Bridgewater),,
 19589,12/16/25,Thomas Hopcroft (D-WINCHESTER),"99 Pond Street WINCHESTER, MA 01890",Senate,2nd Middlesex,Patricia D. Jehlen (D-Somerville),,
 19588,12/15/25,Daniel Lander (D-Boston),"18 Medfield Street Apt. 6 Boston, MA 02215",Senate,Suffolk and Middlesex,William N. Brownsberger (D-Belmont),,
 19583,12/11/25,Connor A. Murray (D-Andover),"410 High Plain Road Andover, MA 01810",House,18th Essex,Tram Nguyen (D-Andover),,
 19582,12/9/25,Elizabeth Harmer Dionne (R-Belmont),"55 Wellesley Rd Belmont, MA 02478",Statewide,Treasurer of the Commonwealth,Deborah Goldberg (D-Brookline),,
 19581,12/9/25,Jamison Souza (D-Somerset),"2290 Riverside Ave Somerset, MA 02726",House,5th Bristol,Justin Thurber (R-Somerset),,
-19580,12/8/25,Andrew F. Tarr (D-Gloucester),"215 Washington St Gloucester, MA 01930",House,5th Essex,,,
-19579,12/8/25,Sarah Jane Wilkinson (D-Rockport),"23 Highview Road Rockport, MA 01966",House,5th Essex,,,
+19580,12/8/25,Andrew F. Tarr (D-Gloucester),"215 Washington St Gloucester, MA 01930",House,5th Essex,Ann-Margaret Ferrante (D-Gloucester),,
+19579,12/8/25,Sarah Jane Wilkinson (D-Rockport),"23 Highview Road Rockport, MA 01966",House,5th Essex,Ann-Margaret Ferrante (D-Gloucester),,
 19031,12/5/25,Chester Tam (R-Dartmouth),"355 Carroll Street Dartmouth, MA 02747",House,9th Bristol,Christopher M. Markey (D-Dartmouth),,
 19573,12/4/25,Jenifer Heck (D-Sutton),"178 Burbank Rd. Sutton, MA 01590",House,18th Worcester,Joseph D. McKenna (R-Sutton),,
 19570,12/2/25,Neheet N. Trivedi (D-Cambridge),"41 Magoun St Cambridge, MA 02140",Senate,2nd Middlesex,Patricia D. Jehlen (D-Somerville),,

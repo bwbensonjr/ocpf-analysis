@@ -13,7 +13,11 @@ set of RESt API endpoints hosted at <https://apis.ocpf.us>.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
-| 3/11/26 | [Charles Haig Larkin (U-Athol)](https://www.ocpf.us/Filers/Index?cpfId=19725) | Statewide | Treasurer of the Commonwealth | Deborah Goldberg (D-Brookline) |  |
+| 3/12/26 | [Anthony J. Leite (D-Lowell)](https://www.ocpf.us/Filers/Index?cpfId=19730) | House | 17th Middlesex | Vanna Howard (D-Lowell) | [Open](https://www.bostonherald.com/2026/03/04/vanna-howard-wins-state-senate-race/) |
+| 3/12/26 | [Daniel R. Darris-O'Connor (D-Billerica)](https://www.ocpf.us/Filers/Index?cpfId=19729) | House | 22nd Middlesex | Marc T. Lombardo (R-Billerica) | [Challenge](https://www.danieldarrisoconnor.com/) |
+| 3/12/26 | [Eric Edleff Schwaab (D-Hyannis)](https://www.ocpf.us/Filers/Index?cpfId=19728) | County Commissioner | Barnstable County | Ronald Bergstrom (D-Chatham) | Challenge |
+| 3/12/26 | [Seyyed Z. Shahrouzi (R-New Bedford)](https://www.ocpf.us/Filers/Index?cpfId=19727) | House | 13th Bristol | Antonio F. D. Cabral (D-New Bedford) | Challenge |
+| 3/11/26 | [Charles Haig Larkin (U-Athol)](https://www.ocpf.us/Filers/Index?cpfId=19725) | Statewide | Treasurer of the Commonwealth | Deborah Goldberg (D-Brookline) | Challenge |
 | 3/10/26 | [Jason M. Perron (U-Southwick)](https://www.ocpf.us/Filers/Index?cpfId=19723) | House | 3rd Hampden | Nick A. Boldyga (R-Southwick) | [Challenge](https://www.masslive.com/westfieldnews/2026/02/perron-announces-independent-campaign-for-state-representative-in-the-3rd-hampden-district.html) |
 | 3/10/26 | [Krista Ferrante (D-Princeton)](https://www.ocpf.us/Filers/Index?cpfId=19722) | House | 1st Worcester | Kimberly N. Ferguson (R-Holden) | [Open](https://www.telegram.com/story/news/politics/2025/12/08/rep-kimberly-ferguson-wont-run-for-reelection-to-ma-house-of-reps/87672408007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z113402p119450n00----c00----v113402&gca-ft=84&gca-ds=sophi) |
 | 3/10/26 | [Nicholas Ethan Boonstra (R-Three Rivers)](https://www.ocpf.us/Filers/Index?cpfId=19721) | Senate | Hampden, Hampshire and Worcester | Jacob R. Oliveira (D-Ludlow) | Challenge |

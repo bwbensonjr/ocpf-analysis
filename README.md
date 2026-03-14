@@ -1,13 +1,11 @@
 # OCPF Analysis
 
-Tools for downloading, understanding, and analyzing data from the
-Massachusetts [Office of Campaign and Political
-Finance](https://ocpf.us)
+This page mirrors the OCPF [Recently
+Organized](https://www.ocpf.us/Filers/RecentlyOrganized) page, while
+adding in information about the incumbent for the mentioned district.
+I also add an `Open` or `Challenge` tag based on research with a link
+to an exaplanatory article or website, if available.
 
-The OCPF web site supports searching and viewing of campaign finance
-data. In terms of direct data access for external analysis, there is a
-[data download page](https://www.ocpf.us/Data/Downloads) and also a
-set of RESt API endpoints hosted at <https://apis.ocpf.us>.
 
 ## Recent Filers
 

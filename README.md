@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 3/17/26 | [Colby W. Hoffman (D-Westfield)](https://www.ocpf.us/Filers/Index?cpfId=19736) | House | 4th Hampden | Kelly W. Pease (R-Westfield) |  |
 | 3/16/26 | [Robert Lee Williams (R-Franklin)](https://www.ocpf.us/Filers/Index?cpfId=19735) | House | 10th Norfolk | Jeffrey N. Roy (D-Franklin) | Challenge |
 | 3/12/26 | [Anthony J. Leite (D-Lowell)](https://www.ocpf.us/Filers/Index?cpfId=19730) | House | 17th Middlesex | Vanna Howard (D-Lowell) | [Open](https://www.bostonherald.com/2026/03/04/vanna-howard-wins-state-senate-race/) |
 | 3/12/26 | [Daniel R. Darris-O'Connor (D-Billerica)](https://www.ocpf.us/Filers/Index?cpfId=19729) | House | 22nd Middlesex | Marc T. Lombardo (R-Billerica) | [Challenge](https://www.danieldarrisoconnor.com/) |

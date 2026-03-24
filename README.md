@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 3/23/26 | [Diann Baylis (D-Marblehead)](https://www.ocpf.us/Filers/Index?cpfId=18033) | Governor's Council | 6th District | Terrence W. Kennedy (D-Lynnfield) |  |
 | 3/20/26 | [Jessica Bradley Rushing (D-Pembroke)](https://www.ocpf.us/Filers/Index?cpfId=19740) | House | 6th Plymouth | Kenneth Peter Sweezey (R-Duxbury) |  |
 | 3/19/26 | [Marcus Xavier D'Angelo (U-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19738) | Senate | 1st Suffolk | Nicholas P. Collins (D-South Boston) | Challenge |
 | 3/19/26 | [Mona Tyree (D-Lowell)](https://www.ocpf.us/Filers/Index?cpfId=19737) | House | 16th Middlesex | Rodney Elliott (D-Lowell) | [Open](https://www.lowellsun.com/2026/03/01/the-column-rodney-elliott-bows-out-of-reelection-bid/) |

@@ -11,8 +11,9 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
-| 3/25/26 | [River F. Brewer (D-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19748) | Statewide | Auditor | Diana DiZoglio (D-Methuen) |  |
-| 3/24/26 | [Joseph M. Pagliarulo (U-Millis)](https://www.ocpf.us/Filers/Index?cpfId=19744) | District Attorney | Norfolk District - Norfolk County | Michael W. Morrissey (D-Quincy) |  |
+| 3/26/26 | [Stephen A. Roth (D-Salsibury)](https://www.ocpf.us/Filers/Index?cpfId=19751) | House | 1st Essex | Dawne Shand (D-Newburyport) |  |
+| 3/25/26 | [River F. Brewer (D-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19748) | Statewide | Auditor | Diana DiZoglio (D-Methuen) | Challenge |
+| 3/24/26 | [Joseph M. Pagliarulo (U-Millis)](https://www.ocpf.us/Filers/Index?cpfId=19744) | District Attorney | Norfolk District - Norfolk County | Michael W. Morrissey (D-Quincy) | Challenge |
 | 3/24/26 | [Marco A. Valdivia (R-Fall River)](https://www.ocpf.us/Filers/Index?cpfId=18145) | House | 6th Bristol | Carole Fiola (D-Fall River) | Challenge |
 | 3/23/26 | [Diann Baylis (D-Marblehead)](https://www.ocpf.us/Filers/Index?cpfId=18033) | Governor's Council | 6th District | Terrence W. Kennedy (D-Lynnfield) | [Challenge](https://marbleheadcurrent.org/2026/02/20/marblehead-immigration-attorney-running-for-governors-council/) |
 | 3/20/26 | [Jessica Bradley Rushing (D-Pembroke)](https://www.ocpf.us/Filers/Index?cpfId=19740) | House | 6th Plymouth | Kenneth Peter Sweezey (R-Duxbury) | [Challenge](https://www.facebook.com/groups/1934597913614627/posts/2269268850147530/) |

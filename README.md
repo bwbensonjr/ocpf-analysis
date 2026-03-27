@@ -11,6 +11,8 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 3/27/26 | [Joseph A. Markey (D-Lynnfield)](https://www.ocpf.us/Filers/Index?cpfId=19754) | House | 20th Middlesex | Bradley H. Jones Jr. (R-North Reading) | [Open](https://www.wgbh.org/news/politics/2026-03-23/house-gop-leader-jones-not-running-ending-decades-at-helm) |
+| 3/27/26 | [Derrick F. Rice (U-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19753) | City Councilor | Somerville | Jesse Clingan (D-Somerville) | Challenge |
 | 3/26/26 | [Stephen A. Roth (D-Salsibury)](https://www.ocpf.us/Filers/Index?cpfId=19751) | House | 1st Essex | Dawne Shand (D-Newburyport) |  |
 | 3/25/26 | [River F. Brewer (D-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19748) | Statewide | Auditor | Diana DiZoglio (D-Methuen) | Challenge |
 | 3/24/26 | [Joseph M. Pagliarulo (U-Millis)](https://www.ocpf.us/Filers/Index?cpfId=19744) | District Attorney | Norfolk District - Norfolk County | Michael W. Morrissey (D-Quincy) | Challenge |

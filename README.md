@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 3/31/26 | [Zora S. Warren (D-North Andover)](https://www.ocpf.us/Filers/Index?cpfId=19763) | House | 18th Essex | Tram Nguyen (D-Andover) |  |
 | 3/30/26 | [Sabra E. Billings (U-Bernardston)](https://www.ocpf.us/Filers/Index?cpfId=19759) | House | 1st Franklin |  |  |
 | 3/27/26 | [Joseph A. Markey (D-Lynnfield)](https://www.ocpf.us/Filers/Index?cpfId=19754) | House | 20th Middlesex | Bradley H. Jones Jr. (R-North Reading) | [Open](https://www.wgbh.org/news/politics/2026-03-23/house-gop-leader-jones-not-running-ending-decades-at-helm) |
 | 3/27/26 | [Derrick F. Rice (U-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19753) | City Councilor | Somerville | Jesse Clingan (D-Somerville) | Challenge |

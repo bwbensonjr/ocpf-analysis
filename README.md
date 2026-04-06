@@ -11,13 +11,13 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
-| 4/1/26 | [Robert Anctil (R-Assonet)](https://www.ocpf.us/Filers/Index?cpfId=19765) | House | 6th Bristol | Carole Fiola (D-Fall River) |  |
+| 4/1/26 | [Robert Anctil (R-Assonet)](https://www.ocpf.us/Filers/Index?cpfId=19765) | House | 6th Bristol | Carole Fiola (D-Fall River) | [Challenge](https://fallriverreporter.com/former-berkley-selectman-announces-candidacy-for-state-representative-in-the-6th-bristol-district/) |
 | 4/1/26 | [Linda Champion (D-Hyde Park)](https://www.ocpf.us/Filers/Index?cpfId=16978) | District Attorney | Suffolk District - Suffolk County | Kevin R. Hayden (D-Roslindale) |  |
-| 3/31/26 | [Zora S. Warren (D-North Andover)](https://www.ocpf.us/Filers/Index?cpfId=19763) | House | 18th Essex | Tram Nguyen (D-Andover) |  |
+| 3/31/26 | [Zora S. Warren (D-North Andover)](https://www.ocpf.us/Filers/Index?cpfId=19763) | House | 18th Essex | Tram Nguyen (D-Andover) | [Open](https://andovermanews.com/north-andovers-zora-warren-enters-race-for-18th-essex-house-seat/) |
 | 3/30/26 | [Sabra E. Billings (U-Bernardston)](https://www.ocpf.us/Filers/Index?cpfId=19759) | House | 1st Franklin |  |  |
 | 3/27/26 | [Joseph A. Markey (D-Lynnfield)](https://www.ocpf.us/Filers/Index?cpfId=19754) | House | 20th Middlesex | Bradley H. Jones Jr. (R-North Reading) | [Open](https://www.wgbh.org/news/politics/2026-03-23/house-gop-leader-jones-not-running-ending-decades-at-helm) |
 | 3/27/26 | [Derrick F. Rice (U-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19753) | City Councilor | Somerville | Jesse Clingan (D-Somerville) | Challenge |
-| 3/26/26 | [Stephen A. Roth (D-Salsibury)](https://www.ocpf.us/Filers/Index?cpfId=19751) | House | 1st Essex | Dawne Shand (D-Newburyport) |  |
+| 3/26/26 | [Stephen A. Roth (D-Salsibury)](https://www.ocpf.us/Filers/Index?cpfId=19751) | House | 1st Essex | Dawne Shand (D-Newburyport) | [Challenge](https://www.newburyportnews.com/news/local_news/salisbury-lawyer-looks-to-unseat-shand-at-state-house/article_55c14a87-6d6b-4bba-b22c-487f22c51870.html) |
 | 3/25/26 | [River F. Brewer (D-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19748) | Statewide | Auditor | Diana DiZoglio (D-Methuen) | Challenge |
 | 3/24/26 | [Joseph M. Pagliarulo (U-Millis)](https://www.ocpf.us/Filers/Index?cpfId=19744) | District Attorney | Norfolk District - Norfolk County | Michael W. Morrissey (D-Quincy) | Challenge |
 | 3/24/26 | [Marco A. Valdivia (R-Fall River)](https://www.ocpf.us/Filers/Index?cpfId=18145) | House | 6th Bristol | Carole Fiola (D-Fall River) | Challenge |

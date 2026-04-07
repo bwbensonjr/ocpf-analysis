@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 4/6/26 | [LeeAllen M. Meyer (D-Winthrop)](https://www.ocpf.us/Filers/Index?cpfId=19777) | House | 19th Suffolk | Jeffrey R. Turco (D-Winthrop) |  |
 | 4/1/26 | [Robert Anctil (R-Assonet)](https://www.ocpf.us/Filers/Index?cpfId=19765) | House | 6th Bristol | Carole Fiola (D-Fall River) | [Challenge](https://fallriverreporter.com/former-berkley-selectman-announces-candidacy-for-state-representative-in-the-6th-bristol-district/) |
 | 4/1/26 | [Linda Champion (D-Hyde Park)](https://www.ocpf.us/Filers/Index?cpfId=16978) | District Attorney | Suffolk District - Suffolk County | Kevin R. Hayden (D-Roslindale) |  |
 | 3/31/26 | [Zora S. Warren (D-North Andover)](https://www.ocpf.us/Filers/Index?cpfId=19763) | House | 18th Essex | Tram Nguyen (D-Andover) | [Open](https://andovermanews.com/north-andovers-zora-warren-enters-race-for-18th-essex-house-seat/) |

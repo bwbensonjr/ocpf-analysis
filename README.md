@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 4/21/26 | [Olivia James Hele Gilligan Corsetti (U-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19797) | House | 27th Middlesex | Erika Uyterhoeven (D-Somerville) |  |
 | 4/10/26 | [Rosemary Aahanna-Hill (D-Whitman)](https://www.ocpf.us/Filers/Index?cpfId=19787) | House | 7th Bristol | Alan Silvia (D-Fall River) | Challenge |
 | 4/8/26 | [Trevor David Currier (R-Middleton)](https://www.ocpf.us/Filers/Index?cpfId=19784) | House | 20th Middlesex | Bradley H. Jones Jr. (R-North Reading) | [Open](https://www.wgbh.org/news/politics/2026-03-23/house-gop-leader-jones-not-running-ending-decades-at-helm) |
 | 4/7/26 | [Kathleen Ann Baxter (D-Scituate)](https://www.ocpf.us/Filers/Index?cpfId=19779) | House | 4th Plymouth | Patrick Joseph Kearney (D-Scituate) |  |

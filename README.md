@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 4/23/26 | [Ronald L. Heiseler (R-Haverhill)](https://www.ocpf.us/Filers/Index?cpfId=19808) | House | 15th Essex | Ryan M. Hamilton (D-Methuen) |  |
 | 4/22/26 | [Nathan R. Boudreau (R-Gardner)](https://www.ocpf.us/Filers/Index?cpfId=19802) | House | 2nd Worcester | Jonathan D. Zlotnik (D-Gardner) | [Open](https://www.thegardnernews.com/story/news/politics/elections/state/2026/04/16/state-representative-jon-zlotnik-gardner-ma-announces-he-is-not-seeking-reelection/89632114007/) |
 | 4/21/26 | [Olivia James Hele Gilligan Corsetti (U-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19797) | House | 27th Middlesex | Erika Uyterhoeven (D-Somerville) | [Open](https://www.tuftsdaily.com/article/2026/03/state-rep-erika-uyterhoeven-announces-state-senate-campaign-at-medfordtufts-station) |
 | 4/10/26 | [Rosemary Aahanna-Hill (D-Whitman)](https://www.ocpf.us/Filers/Index?cpfId=19787) | House | 7th Bristol | Alan Silvia (D-Fall River) | Challenge |
@@ -47,7 +48,7 @@ to an exaplanatory article or website, if available.
 | 3/6/26 | [Lisa Ruth Lopez (D-Canton)](https://www.ocpf.us/Filers/Index?cpfId=19715) | House | 6th Norfolk | William C. Galvin (D-Canton) | [Open](https://www.wwlp.com/news/massachusetts/rep-galvin-of-canton-will-not-seek-reelection/) |
 | 3/5/26 | [Leila Migliorelli (D-Melrose)](https://www.ocpf.us/Filers/Index?cpfId=19713) | House | 32nd Middlesex | Kate Lipper-Garabedian (D-Melrose) | [Open](https://www.kateforrep.com/updates/title) |
 | 3/4/26 | [John Higgins (D-Malden)](https://www.ocpf.us/Filers/Index?cpfId=19711) | House | 32nd Middlesex | Kate Lipper-Garabedian (D-Melrose) | [Open](https://www.kateforrep.com/updates/title) |
-| 3/3/26 | [John Reilly (U-ASHBURNHAM)](https://www.ocpf.us/Filers/Index?cpfId=19709) | House | 2nd Worcester | Jonathan D. Zlotnik (D-Gardner) | Challenge |
+| 3/3/26 | [John Reilly (U-ASHBURNHAM)](https://www.ocpf.us/Filers/Index?cpfId=19709) | House | 2nd Worcester | Jonathan D. Zlotnik (D-Gardner) | [Open](https://www.thegardnernews.com/story/news/politics/elections/state/2026/04/16/state-representative-jon-zlotnik-gardner-ma-announces-he-is-not-seeking-reelection/89632114007/) |
 | 3/3/26 | [Anne M. Manning Martin (R-Peabody)](https://www.ocpf.us/Filers/Index?cpfId=13923) | Statewide | Lieutenant Governor | Kimberley Driscoll (D-Salem) | [Challenge](https://www.wgbh.org/news/politics/2026-03-04/anne-manning-martin-joins-the-republican-race-for-lieutenant-governor) |
 | 2/26/26 | [Stephen J. Medeiros (D-Dartmouth)](https://www.ocpf.us/Filers/Index?cpfId=19701) | House | 9th Bristol | Christopher M. Markey (D-Dartmouth) | [Open](https://newbedfordlight.org/state-rep-markey-says-hes-throwing-his-hat-in-the-ring-for-bristol-county-da/) |
 | 2/25/26 | [Christopher R. Oates (D-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19699) | House | 34th Middlesex | Christine P. Barber (D-Somerville) | [Open](https://www.thesomervilletimes.com/archives/145252) |

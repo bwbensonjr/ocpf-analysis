@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 4/24/26 | [Jennifer Spadafora (D-Malden)](https://www.ocpf.us/Filers/Index?cpfId=19562) | Mayoral | Malden | Gary J. Christenson (D-Malden) |  |
 | 4/23/26 | [Ronald L. Heiseler (R-Haverhill)](https://www.ocpf.us/Filers/Index?cpfId=19808) | House | 15th Essex | Ryan M. Hamilton (D-Methuen) |  |
 | 4/22/26 | [Nathan R. Boudreau (R-Gardner)](https://www.ocpf.us/Filers/Index?cpfId=19802) | House | 2nd Worcester | Jonathan D. Zlotnik (D-Gardner) | [Open](https://www.thegardnernews.com/story/news/politics/elections/state/2026/04/16/state-representative-jon-zlotnik-gardner-ma-announces-he-is-not-seeking-reelection/89632114007/) |
 | 4/21/26 | [Olivia James Hele Gilligan Corsetti (U-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19797) | House | 27th Middlesex | Erika Uyterhoeven (D-Somerville) | [Open](https://www.tuftsdaily.com/article/2026/03/state-rep-erika-uyterhoeven-announces-state-senate-campaign-at-medfordtufts-station) |

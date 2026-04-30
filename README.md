@@ -11,12 +11,12 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
-| 4/29/26 | [Henry G. Bousquet (R-New Bedford)](https://www.ocpf.us/Filers/Index?cpfId=15985) | House | 9th Bristol | Christopher M. Markey (D-Dartmouth) |  |
-| 4/28/26 | [Kayla J. Kittredge (U-Lowell)](https://www.ocpf.us/Filers/Index?cpfId=19820) | Statewide | Lieutenant Governor | Kimberley Driscoll (D-Salem) |  |
-| 4/28/26 | [Daniel James Kelly (R-Ipswich)](https://www.ocpf.us/Filers/Index?cpfId=19818) | House | 2nd Essex | Kristin E. Kassner (D-S. Hamilton) |  |
-| 4/28/26 | [Edward Walsh (D-Taunton)](https://www.ocpf.us/Filers/Index?cpfId=19817) | House | 3rd Bristol | Lisa M. Field (D-Taunton) |  |
-| 4/24/26 | [Jennifer Spadafora (D-Malden)](https://www.ocpf.us/Filers/Index?cpfId=19562) | Mayoral | Malden | Gary J. Christenson (D-Malden) |  |
-| 4/23/26 | [Ronald L. Heiseler (R-Haverhill)](https://www.ocpf.us/Filers/Index?cpfId=19808) | House | 15th Essex | Ryan M. Hamilton (D-Methuen) |  |
+| 4/29/26 | [Henry G. Bousquet (R-New Bedford)](https://www.ocpf.us/Filers/Index?cpfId=15985) | House | 9th Bristol | Christopher M. Markey (D-Dartmouth) | [Open](https://newbedfordlight.org/state-rep-markey-says-hes-throwing-his-hat-in-the-ring-for-bristol-county-da/) |
+| 4/28/26 | [Kayla J. Kittredge (U-Lowell)](https://www.ocpf.us/Filers/Index?cpfId=19820) | Statewide | Lieutenant Governor | Kimberley Driscoll (D-Salem) | Challenge |
+| 4/28/26 | [Daniel James Kelly (R-Ipswich)](https://www.ocpf.us/Filers/Index?cpfId=19818) | House | 2nd Essex | Kristin E. Kassner (D-S. Hamilton) | Challenge |
+| 4/28/26 | [Edward Walsh (D-Taunton)](https://www.ocpf.us/Filers/Index?cpfId=19817) | House | 3rd Bristol | Lisa M. Field (D-Taunton) | [Challenge](https://www.aol.com/news/taunton-police-chief-may-primary-150320670.html) |
+| 4/24/26 | [Jennifer Spadafora (D-Malden)](https://www.ocpf.us/Filers/Index?cpfId=19562) | Mayoral | Malden | Gary J. Christenson (D-Malden) | Challenge |
+| 4/23/26 | [Ronald L. Heiseler (R-Haverhill)](https://www.ocpf.us/Filers/Index?cpfId=19808) | House | 15th Essex | Ryan M. Hamilton (D-Methuen) | [Challenge](https://whav.net/2026/04/16/two-candidates-emerge-to-challenge-local-legislators-as-april-28-deadline-nears/) |
 | 4/22/26 | [Nathan R. Boudreau (R-Gardner)](https://www.ocpf.us/Filers/Index?cpfId=19802) | House | 2nd Worcester | Jonathan D. Zlotnik (D-Gardner) | [Open](https://www.thegardnernews.com/story/news/politics/elections/state/2026/04/16/state-representative-jon-zlotnik-gardner-ma-announces-he-is-not-seeking-reelection/89632114007/) |
 | 4/21/26 | [Olivia James Hele Gilligan Corsetti (U-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19797) | House | 27th Middlesex | Erika Uyterhoeven (D-Somerville) | [Open](https://www.tuftsdaily.com/article/2026/03/state-rep-erika-uyterhoeven-announces-state-senate-campaign-at-medfordtufts-station) |
 | 4/10/26 | [Rosemary Aahanna-Hill (D-Whitman)](https://www.ocpf.us/Filers/Index?cpfId=19787) | House | 7th Bristol | Alan Silvia (D-Fall River) | Challenge |

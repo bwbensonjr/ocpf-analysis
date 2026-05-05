@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 5/4/26 | [James (Jake) Seibel (U-Medford)](https://www.ocpf.us/Filers/Index?cpfId=19829) | House | 35th Middlesex | Paul J. Donato (D-Medford) |  |
 | 4/29/26 | [Henry G. Bousquet (R-New Bedford)](https://www.ocpf.us/Filers/Index?cpfId=15985) | House | 9th Bristol | Christopher M. Markey (D-Dartmouth) | [Open](https://newbedfordlight.org/state-rep-markey-says-hes-throwing-his-hat-in-the-ring-for-bristol-county-da/) |
 | 4/28/26 | [Kayla J. Kittredge (U-Lowell)](https://www.ocpf.us/Filers/Index?cpfId=19820) | Statewide | Lieutenant Governor | Kimberley Driscoll (D-Salem) | Challenge |
 | 4/28/26 | [Daniel James Kelly (R-Ipswich)](https://www.ocpf.us/Filers/Index?cpfId=19818) | House | 2nd Essex | Kristin E. Kassner (D-S. Hamilton) | Challenge |

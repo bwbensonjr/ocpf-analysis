@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 5/13/26 | [Tony Rodrigues (D-Brockton)](https://www.ocpf.us/Filers/Index?cpfId=19849) | House | 10th Plymouth | Michelle Marie DuBois (D-Brockton) |  |
 | 5/11/26 | [Jon Hall (U-Northfield)](https://www.ocpf.us/Filers/Index?cpfId=19841) | Sheriff | Franklin County | Lori M. Streeter (D-Greenfield) | Challenge |
 | 5/8/26 | [Brandon C. Wood (U-Belmont)](https://www.ocpf.us/Filers/Index?cpfId=19836) | Senate | Middlesex & Suffolk | Sal N. DiDomenico (D-Everett) | Challenge |
 | 5/4/26 | [James (Jake) Seibel (U-Medford)](https://www.ocpf.us/Filers/Index?cpfId=19829) | House | 35th Middlesex | Paul J. Donato (D-Medford) | [Challenge](https://www.jakeseibel35district.com/#) |

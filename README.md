@@ -11,7 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
-| 5/18/26 | [Margie Palladino (D-Wellesley)](https://www.ocpf.us/Filers/Index?cpfId=19853) | Governor's Council | 3rd District | Mara Dolan (D-Concord) |  |
+| 5/18/26 | [Margie Palladino (D-Wellesley)](https://www.ocpf.us/Filers/Index?cpfId=19853) | Governor's Council | 3rd District | Mara Dolan (D-Concord) | [Challenge](https://concordbridge.org/index.php/2026/05/11/simon-unopposed-dolan-gets-possible-challenger-as-state-deadline-passes/) |
 | 5/15/26 | [Leslie Paul St.George (U-New Bedford)](https://www.ocpf.us/Filers/Index?cpfId=19852) | City Councilor | New Bedford | Ian Abreu (D-New Bedford) |  |
 | 5/13/26 | [Tony Rodrigues (D-Brockton)](https://www.ocpf.us/Filers/Index?cpfId=19849) | House | 10th Plymouth | Michelle Marie DuBois (D-Brockton) | [Challenge](https://www.enterprisenews.com/story/news/2026/05/04/brockton-ma-tony-rodrigues-school-committe-running-state-representative-michelle-dubois-democrat/89932326007/) |
 | 5/11/26 | [Jon Hall (U-Northfield)](https://www.ocpf.us/Filers/Index?cpfId=19841) | Sheriff | Franklin County | Lori M. Streeter (D-Greenfield) | Challenge |

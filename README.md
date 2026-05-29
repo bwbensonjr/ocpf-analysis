@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 5/28/26 | [Josh William Bowdridge (R-Leominster)](https://www.ocpf.us/Filers/Index?cpfId=19635) | House | 4th Worcester | Natalie Marie Higgins (D-Leominster) |  |
 | 5/26/26 | [Corey P. Lambo (U-Becket)](https://www.ocpf.us/Filers/Index?cpfId=19856) | House | 3rd Berkshire | Leigh Susan Davis (D-Great Barrington) |  |
 | 5/19/26 | [Tony King (D-Milton)](https://www.ocpf.us/Filers/Index?cpfId=18775) | Senate | Norfolk, Plymouth and Bristol | William J. Driscoll Jr. (D-Milton) | [Challenge](https://tonyking4senate.com/) |
 | 5/18/26 | [Margie Palladino (D-Wellesley)](https://www.ocpf.us/Filers/Index?cpfId=19853) | Governor's Council | 3rd District | Mara Dolan (D-Concord) | [Challenge](https://concordbridge.org/index.php/2026/05/11/simon-unopposed-dolan-gets-possible-challenger-as-state-deadline-passes/) |

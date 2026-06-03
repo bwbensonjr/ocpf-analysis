@@ -11,6 +11,8 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 6/2/26 | [Alexander (Al) Ozonoff (U-Medford)](https://www.ocpf.us/Filers/Index?cpfId=19863) | Statewide | Auditor | Diana DiZoglio (D-Methuen) |  |
+| 6/2/26 | [John William Foy (U-Brighton)](https://www.ocpf.us/Filers/Index?cpfId=19081) | City Councilor | Boston | Elizabeth A. Breadon (U-Brighton) |  |
 | 5/28/26 | [Josh William Bowdridge (R-Leominster)](https://www.ocpf.us/Filers/Index?cpfId=19635) | House | 4th Worcester | Natalie Marie Higgins (D-Leominster) |  |
 | 5/26/26 | [Corey P. Lambo (U-Becket)](https://www.ocpf.us/Filers/Index?cpfId=19856) | House | 3rd Berkshire | Leigh Susan Davis (D-Great Barrington) |  |
 | 5/19/26 | [Tony King (D-Milton)](https://www.ocpf.us/Filers/Index?cpfId=18775) | Senate | Norfolk, Plymouth and Bristol | William J. Driscoll Jr. (D-Milton) | [Challenge](https://tonyking4senate.com/) |

@@ -11,6 +11,10 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 6/4/26 | [Gary Edward Gagnon (U-)](https://www.ocpf.us/Filers/Index?cpfId=19867) | Sheriff | Franklin County | Lori M. Streeter (D-Greenfield) |  |
+| 6/4/26 | [Jose Ramon Candelario Gonzalez (U-)](https://www.ocpf.us/Filers/Index?cpfId=19866) | House | 5th Hampden | Patricia A. Duffy (D-Holyoke) |  |
+| 6/4/26 | [Stephen M. Foley (U-)](https://www.ocpf.us/Filers/Index?cpfId=19865) | House | 5th Norfolk | Mark James Cusack (D-North Braintree) |  |
+| 6/4/26 | [Luisa A. Cestari (R-Natick)](https://www.ocpf.us/Filers/Index?cpfId=19864) | House | 5th Middlesex | David P. Linsky (D-Natick) |  |
 | 6/2/26 | [Alexander (Al) Ozonoff (U-Medford)](https://www.ocpf.us/Filers/Index?cpfId=19863) | Statewide | Auditor | Diana DiZoglio (D-Methuen) |  |
 | 6/2/26 | [John William Foy (U-Brighton)](https://www.ocpf.us/Filers/Index?cpfId=19081) | City Councilor | Boston | Elizabeth A. Breadon (U-Brighton) |  |
 | 5/28/26 | [Josh William Bowdridge (R-Leominster)](https://www.ocpf.us/Filers/Index?cpfId=19635) | House | 4th Worcester | Natalie Marie Higgins (D-Leominster) |  |

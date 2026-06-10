@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 6/9/26 | [Donnell Donny Wright (D-Springfield)](https://www.ocpf.us/Filers/Index?cpfId=19870) | Senate | Hampden | Adam Gomez (D-Springfield) |  |
 | 6/4/26 | [Gary Edward Gagnon (U-)](https://www.ocpf.us/Filers/Index?cpfId=19867) | Sheriff | Franklin County | Lori M. Streeter (D-Greenfield) |  |
 | 6/4/26 | [Jose Ramon Candelario Gonzalez (U-)](https://www.ocpf.us/Filers/Index?cpfId=19866) | House | 5th Hampden | Patricia A. Duffy (D-Holyoke) |  |
 | 6/4/26 | [Stephen M. Foley (U-)](https://www.ocpf.us/Filers/Index?cpfId=19865) | House | 5th Norfolk | Mark James Cusack (D-North Braintree) |  |

@@ -11,15 +11,15 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
-| 6/9/26 | [Donnell Donny Wright (D-Springfield)](https://www.ocpf.us/Filers/Index?cpfId=19870) | Senate | Hampden | Adam Gomez (D-Springfield) |  |
+| 6/9/26 | [Donnell Donny Wright (D-Springfield)](https://www.ocpf.us/Filers/Index?cpfId=19870) | Senate | Hampden | Adam Gomez (D-Springfield) | Challenge |
 | 6/4/26 | [Gary Edward Gagnon (U-)](https://www.ocpf.us/Filers/Index?cpfId=19867) | Sheriff | Franklin County | Lori M. Streeter (D-Greenfield) |  |
-| 6/4/26 | [Jose Ramon Candelario Gonzalez (U-)](https://www.ocpf.us/Filers/Index?cpfId=19866) | House | 5th Hampden | Patricia A. Duffy (D-Holyoke) |  |
-| 6/4/26 | [Stephen M. Foley (U-)](https://www.ocpf.us/Filers/Index?cpfId=19865) | House | 5th Norfolk | Mark James Cusack (D-North Braintree) |  |
-| 6/4/26 | [Luisa A. Cestari (R-Natick)](https://www.ocpf.us/Filers/Index?cpfId=19864) | House | 5th Middlesex | David P. Linsky (D-Natick) |  |
-| 6/2/26 | [Alexander (Al) Ozonoff (U-Medford)](https://www.ocpf.us/Filers/Index?cpfId=19863) | Statewide | Auditor | Diana DiZoglio (D-Methuen) |  |
+| 6/4/26 | [Jose Ramon Candelario Gonzalez (U-)](https://www.ocpf.us/Filers/Index?cpfId=19866) | House | 5th Hampden | Patricia A. Duffy (D-Holyoke) | Challenge |
+| 6/4/26 | [Stephen M. Foley (U-)](https://www.ocpf.us/Filers/Index?cpfId=19865) | House | 5th Norfolk | Mark James Cusack (D-North Braintree) | Challenge |
+| 6/4/26 | [Luisa A. Cestari (R-Natick)](https://www.ocpf.us/Filers/Index?cpfId=19864) | House | 5th Middlesex | David P. Linsky (D-Natick) | Challenge |
+| 6/2/26 | [Alexander (Al) Ozonoff (U-Medford)](https://www.ocpf.us/Filers/Index?cpfId=19863) | Statewide | Auditor | Diana DiZoglio (D-Methuen) | Challenge |
 | 6/2/26 | [John William Foy (U-Brighton)](https://www.ocpf.us/Filers/Index?cpfId=19081) | City Councilor | Boston | Elizabeth A. Breadon (U-Brighton) |  |
-| 5/28/26 | [Josh William Bowdridge (R-Leominster)](https://www.ocpf.us/Filers/Index?cpfId=19635) | House | 4th Worcester | Natalie Marie Higgins (D-Leominster) |  |
-| 5/26/26 | [Corey P. Lambo (U-Becket)](https://www.ocpf.us/Filers/Index?cpfId=19856) | House | 3rd Berkshire | Leigh Susan Davis (D-Great Barrington) |  |
+| 5/28/26 | [Josh William Bowdridge (R-Leominster)](https://www.ocpf.us/Filers/Index?cpfId=19635) | House | 4th Worcester | Natalie Marie Higgins (D-Leominster) | [Challenge](https://www.facebook.com/electjoshbowdridge/) |
+| 5/26/26 | [Corey P. Lambo (U-Becket)](https://www.ocpf.us/Filers/Index?cpfId=19856) | House | 3rd Berkshire | Leigh Susan Davis (D-Great Barrington) | Challenge |
 | 5/19/26 | [Tony King (D-Milton)](https://www.ocpf.us/Filers/Index?cpfId=18775) | Senate | Norfolk, Plymouth and Bristol | William J. Driscoll Jr. (D-Milton) | [Challenge](https://tonyking4senate.com/) |
 | 5/18/26 | [Margie Palladino (D-Wellesley)](https://www.ocpf.us/Filers/Index?cpfId=19853) | Governor's Council | 3rd District | Mara Dolan (D-Concord) | [Challenge](https://concordbridge.org/index.php/2026/05/11/simon-unopposed-dolan-gets-possible-challenger-as-state-deadline-passes/) |
 | 5/15/26 | [Leslie Paul St.George (U-New Bedford)](https://www.ocpf.us/Filers/Index?cpfId=19852) | City Councilor | New Bedford | Ian Abreu (D-New Bedford) |  |

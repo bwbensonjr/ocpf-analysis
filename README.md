@@ -11,6 +11,8 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 6/17/26 | [Katherine E. Putnam (U-Edgartown)](https://www.ocpf.us/Filers/Index?cpfId=19873) | County Commissioner | Dukes County | Tristan R. Israel (D-Tisbury) |  |
+| 6/17/26 | [Melanie Patenaude Layden (U-Taunton)](https://www.ocpf.us/Filers/Index?cpfId=17475) | Register of Probate | Bristol County | Thomas C. Hoye Jr. (D-Taunton) |  |
 | 6/9/26 | [Donnell Donny Wright (D-Springfield)](https://www.ocpf.us/Filers/Index?cpfId=19870) | Senate | Hampden | Adam Gomez (D-Springfield) | Challenge |
 | 6/4/26 | [Gary Edward Gagnon (U-)](https://www.ocpf.us/Filers/Index?cpfId=19867) | Sheriff | Franklin County | Lori M. Streeter (D-Greenfield) |  |
 | 6/4/26 | [Jose Ramon Candelario Gonzalez (U-)](https://www.ocpf.us/Filers/Index?cpfId=19866) | House | 5th Hampden | Patricia A. Duffy (D-Holyoke) | Challenge |

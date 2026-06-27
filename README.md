@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 6/26/26 | [Kenneth R. Willette (R-Methuen)](https://www.ocpf.us/Filers/Index?cpfId=15331) | House | 4th Essex | Estela A. Reyes (D-Lawrence) |  |
 | 6/25/26 | [Amy Morgan Upton (U-West Tisbury)](https://www.ocpf.us/Filers/Index?cpfId=19874) | County Commissioner | Dukes County | Tristan R. Israel (D-Tisbury) |  |
 | 6/17/26 | [Katherine E. Putnam (U-Edgartown)](https://www.ocpf.us/Filers/Index?cpfId=19873) | County Commissioner | Dukes County | Tristan R. Israel (D-Tisbury) |  |
 | 6/17/26 | [Melanie Patenaude Layden (U-Taunton)](https://www.ocpf.us/Filers/Index?cpfId=17475) | Register of Probate | Bristol County | Thomas C. Hoye Jr. (D-Taunton) |  |

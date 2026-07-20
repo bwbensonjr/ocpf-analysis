@@ -11,9 +11,9 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
-| 7/13/26 | [Fraylin Angelina (R-Lawrence)](https://www.ocpf.us/Filers/Index?cpfId=19878) | Senate | 1st Essex | Pavel M. Payano (D-Lawrence) |  |
-| 7/8/26 | [Paul E. Saccardo (D-Canton)](https://www.ocpf.us/Filers/Index?cpfId=19876) | House | 6th Norfolk | William C. Galvin (D-Canton) |  |
-| 6/26/26 | [Kenneth R. Willette (R-Methuen)](https://www.ocpf.us/Filers/Index?cpfId=15331) | House | 4th Essex | Estela A. Reyes (D-Lawrence) |  |
+| 7/13/26 | [Fraylin Angelina (R-Lawrence)](https://www.ocpf.us/Filers/Index?cpfId=19878) | Senate | 1st Essex | Pavel M. Payano (D-Lawrence) | [Challenge](https://www.facebook.com/carlota.castillo.503/photos/campaign-announcementfraylin-angelina-has-officially-entered-the-race-for-massac/3389070157920935/) |
+| 7/8/26 | [Paul E. Saccardo (D-Canton)](https://www.ocpf.us/Filers/Index?cpfId=19876) | House | 6th Norfolk | William C. Galvin (D-Canton) | [Open](https://www.wwlp.com/news/massachusetts/rep-galvin-of-canton-will-not-seek-reelection/) |
+| 6/26/26 | [Kenneth R. Willette (R-Methuen)](https://www.ocpf.us/Filers/Index?cpfId=15331) | House | 4th Essex | Estela A. Reyes (D-Lawrence) | [Challenge](https://valleypatriot.com/willette-to-challenge-reyes-in-state-rep-race-in-lawrence-and-methuen/) |
 | 6/25/26 | [Amy Morgan Upton (U-West Tisbury)](https://www.ocpf.us/Filers/Index?cpfId=19874) | County Commissioner | Dukes County | Tristan R. Israel (D-Tisbury) |  |
 | 6/17/26 | [Katherine E. Putnam (U-Edgartown)](https://www.ocpf.us/Filers/Index?cpfId=19873) | County Commissioner | Dukes County | Tristan R. Israel (D-Tisbury) |  |
 | 6/17/26 | [Melanie Patenaude Layden (U-Taunton)](https://www.ocpf.us/Filers/Index?cpfId=17475) | Register of Probate | Bristol County | Thomas C. Hoye Jr. (D-Taunton) |  |

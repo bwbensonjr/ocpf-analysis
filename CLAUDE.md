@@ -44,6 +44,8 @@ Rscript ocpf-data.R
 
 - `api/api_inspection.py` - Fetches sample data from various OCPF API endpoints
 - `api/ocpf-endpoints.json` - Comprehensive catalog of available OCPF API endpoints organized by controller (Reference, Filers, Elections, ReportData, etc.)
+- `api/ENDPOINT-STATUS.md` - Which OCPF endpoints work vs. return errors/stale data
+- `api/DATA-QUALITY-ISSUES.md` - Running log of suspected-incorrect OCPF *data* (wrong/inconsistent values) to raise with OCPF
 - `ocpf-data.R` - R script for loading and analyzing bulk download data
 - `data/reports/*/readme.txt` - Documentation of report types and record type IDs
 

@@ -11,6 +11,8 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 8/20/26 | [Gabriel Isaac Greenspan (R-Becket)](https://www.ocpf.us/Filers/Index?cpfId=19883) | Senate | Berkshire, Hampden, Franklin and Hampshire | Paul Mark (D-Becket) |  |
+| 8/20/26 | [Anthony Baez (U-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19882) | City Councilor | Boston | Elizabeth A. Breadon (U-Brighton) |  |
 | 8/19/26 | [Brendalee A. Smith (R-Fairhaven)](https://www.ocpf.us/Filers/Index?cpfId=19881) | House | 10th Bristol | Mark D. Sylvia (D-Fairhaven) |  |
 | 8/10/26 | [Cari-Ann Knight (U-Fitchburg)](https://www.ocpf.us/Filers/Index?cpfId=19879) | House | 3rd Worcester | Michael P. Kushmerek (D-Fitchburg) |  |
 | 7/13/26 | [Fraylin Angelina (R-Lawrence)](https://www.ocpf.us/Filers/Index?cpfId=19878) | Senate | 1st Essex | Pavel M. Payano (D-Lawrence) | [Challenge](https://www.facebook.com/carlota.castillo.503/photos/campaign-announcementfraylin-angelina-has-officially-entered-the-race-for-massac/3389070157920935/) |

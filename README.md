@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 8/31/26 | [Eliseu Desousa (R-New Bedford)](https://www.ocpf.us/Filers/Index?cpfId=19886) | House | 13th Bristol | Antonio F. D. Cabral (D-New Bedford) |  |
 | 8/27/26 | [Charles Francis Bailey (R-Franklin)](https://www.ocpf.us/Filers/Index?cpfId=18139) | Senate | Norfolk, Worcester and Middlesex | Rebecca L. Rausch (D-Needham) |  |
 | 8/19/26 | [Serena Hollmeyer Taylor (D-Somerville MA)](https://www.ocpf.us/Filers/Index?cpfId=19884) | City Councilor | Somerville | Jesse Clingan (D-Somerville) |  |
 | 8/20/26 | [Gabriel Isaac Greenspan (R-Becket)](https://www.ocpf.us/Filers/Index?cpfId=19883) | Senate | Berkshire, Hampden, Franklin and Hampshire | Paul Mark (D-Becket) |  |

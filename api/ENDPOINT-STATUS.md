@@ -4,6 +4,13 @@
 **Base URL:** `https://api.ocpf.us/`
 **Summary:** 94 working, 24 not working (79.7% success rate)
 
+> **OCPF publishes a full OpenAPI spec at
+> <https://api.ocpf.us/swagger/v1/swagger.json>** (browsable at
+> `https://api.ocpf.us/swagger/index.html`). It lists every route's query
+> parameters, which this document does not. Read it before probing an endpoint
+> by hand — several routes below take parameters that are the difference between
+> "working" and "useful".
+
 ## Results by Controller
 
 | Controller | Working | Total | Success Rate |
@@ -89,8 +96,8 @@
 | `report/generic/{reportId}` | Returns a generic report |
 | `report/pdf/{reportId}` | Creates a PDF for the specified report |
 | `reports/baseReportTypes/{cpfId}` | Returns all base report types the filer has filed |
-| `search/items` | Returns search contributions, expenditures, donations or subvendor payments |
-| `search/recordTypes/{searchTypeCategory}` | Returns record type filter for searches |
+| `search/items` | Returns search contributions, expenditures, donations or subvendor payments — **see [search/items](#searchitems--report-line-items) below; it fails open in three ways** |
+| `search/recordTypes/{searchTypeCategory}` | Record type filter for searches. `{searchTypeCategory}` is the **same single-letter code** as `search/items` (`B`/`R`/`S`/`D`), not a word — see below |
 | `search/textOutput` | Returns search results as text |
 | `search/excelOutput` | Returns search results as Excel |
 | `search/pdfOutput` | Returns search results as PDF |
@@ -154,6 +161,111 @@
 | `forms/all` | Returns all forms |
 | `publications/studies` | Returns all OCPF studies |
 | `filingSchedules/{year}` | Returns filing schedules |
+
+---
+
+## `search/items` — report line items
+
+Verified against the live API on 2026-09-04 (filer cpfId 17436, 1,019
+expenditure records). This endpoint returns the individual records inside filed
+reports — contributions received, expenditures made, subvendor payments. It is
+the only working route for "who did this committee pay?", and it **fails open in
+three ways that produce plausible-looking wrong answers rather than errors.**
+
+### 1. `SearchTypeCategory` — an unrecognized value silently returns receipts
+
+| Code | Records | Global count | Global total |
+|------|---------|-------------:|-------------:|
+| `B` | Expenditures | 1,824,032 | $1,553,093,477.87 |
+| `R` | Receipts / contributions (**the fallback**) | 6,134,871 | $1,664,541,084.54 |
+| `S` | Subvendor payments | 14,207 | $305,298,610.22 |
+| `D` | Donations | 10,565 | $15,781,689.95 |
+
+Any *unrecognized* value falls back to **receipts** with no error and no
+warning. `E`, `expenditures`, `EXP`, `exp` and `""` all return the receipt set,
+which reads as a perfectly plausible table of money flowing the opposite
+direction. Never build this parameter from user input, and validate the shape of
+what comes back (expenditure items carry `vendor`; receipt items carry
+`contributorCpfId`/`fullNameReverse` instead).
+
+### 2. `StartIndex` is 1-based, not 0-based
+
+`StartIndex=0` and `StartIndex=1` both return the first record; `StartIndex=2`
+returns the second. Paging from a 0-based offset re-fetches the boundary record
+on every page and **inflates any total computed from the result**. Check the
+accumulated count against `summary.count` in both directions — a short read
+understates a total and an overlap overstates it, both silently.
+
+### 3. A misnamed filter is ignored, not rejected
+
+`Name` filters the counterparty and works. **`VendorName` is inert** despite
+appearing in the swagger spec: passing it returns the entire unfiltered database
+(1,823,947 records, $1.55B). An ignored filter is indistinguishable from one
+that matched everything, so verify a filter narrows the result before trusting
+it.
+
+### Response shape
+
+```json
+{"summary": {"count": 0, "total": 0, "totalDisplay": "$0.00", "description": ""},
+ "items": [...]}
+```
+
+`summary` is **null unless `withSummary=true`** is passed.
+
+Useful parameters (full list in the swagger spec): `CpfId`, `Name`, `StartDate`,
+`EndDate`, `MinAmount`, `MaxAmount`, `PageSize`, `StartIndex`, `withSummary`,
+`SortField`, `SortDirection`.
+
+### Item fields
+
+Expenditure items carry `vendor`, `purpose`, `clarifiedName`,
+`clarifiedPurpose`, `date` (`M/D/YYYY`), `amount` (a **display string** like
+`"$1,234.56"`, not a number), `recordTypeId`/`recordTypeDescription`,
+`reportId`, and `sourceLink`/`sourceDescription`.
+
+- `recordTypeDescription` of `Bank Reported Expenditure` means the payee came
+  off a bank statement and may be an opaque description (`OUTGOING WIRE
+  TRANSFER`) rather than the true recipient.
+- **`clarifiedName` is OCPF's own resolution of such a payee** and should be
+  preferred when present. It resolves bank-OCR spelling variants of one
+  recipient, and sometimes names the payee behind an opaque wire. It is
+  authoritative, unlike any inference drawn from the raw string. It is sparse:
+  6 of 181 records for one filer's 2026 activity.
+
+### `search/recordTypes/{searchTypeCategory}`
+
+Takes the **same single-letter code**, not a word. `search/recordTypes/B`
+returns the 14 expenditure record types below; `R`, `S` and `D` currently return
+`[]`. (An earlier note that this route was useless came from passing words like
+`expenditures` and getting an empty list.)
+
+| Id | Description |
+|-----|-------------|
+| 301 | General Expenditure |
+| 302 | Bank Fee |
+| 303 | Contribution to a registered committee |
+| 304 | Liability Repayment |
+| 305 | Refund of Credit Card Contribution |
+| 315 | Independent Expenditure |
+| 316 | Adminstrative Expense |
+| 318 | Payroll Item |
+| 319 | Merchant Provider Fee |
+| 320 | Aggregated Un-itemized Expenditure Total |
+| 331 | Out-of-pocket candidate expense (as loan) |
+| 332 | Out-of-pocket candidate expense |
+| 351 | Reimbursement Item |
+| 354 | Credit Card Charge |
+
+Note that out-of-pocket candidate expenses (331/332) are included here, which is
+why an item-search expenditure total legitimately exceeds the depository YTD
+`expendituresYtd` figure for the same filer and period.
+
+### Reference implementation
+
+`ocpf-cli` wraps all of the above in `src/ocpf_cli/search.py`, with the paging,
+completeness checks and shape guards already written; `ocpf expenditures` is the
+command built on it.
 
 ---
 

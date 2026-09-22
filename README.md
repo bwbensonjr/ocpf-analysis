@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 9/21/26 | [Marcus Coward (D-New Bedford)](https://www.ocpf.us/Filers/Index?cpfId=19891) | City Councilor | New Bedford | Ian Abreu (D-New Bedford) |  |
 | 9/10/26 | [Dale Steven Leone (D-HAVERHILL)](https://www.ocpf.us/Filers/Index?cpfId=19890) | City Councilor | Haverhill | Ralph T. Basiliere (D-Haverhill) |  |
 | 8/31/26 | [Eliseu Desousa (R-New Bedford)](https://www.ocpf.us/Filers/Index?cpfId=19886) | House | 13th Bristol | Antonio F. D. Cabral (D-New Bedford) |  |
 | 8/27/26 | [Charles Francis Bailey (R-Franklin)](https://www.ocpf.us/Filers/Index?cpfId=18139) | Senate | Norfolk, Worcester and Middlesex | Rebecca L. Rausch (D-Needham) |  |

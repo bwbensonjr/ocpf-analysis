@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 10/2/26 | [William Falcetano (R-Gloucester)](https://www.ocpf.us/Filers/Index?cpfId=19896) | Governor's Council | 5th District | Eunice Delice Zeigler (D-Methuen) |  |
 | 9/28/26 | [Diego Leonardo (U-Lawrence)](https://www.ocpf.us/Filers/Index?cpfId=19894) | House | 16th Essex | Francisco Paulino (D-Methuen) |  |
 | 9/28/26 | [Emily Doran (D-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19893) | City Councilor | Somerville | Jesse Clingan (D-Somerville) |  |
 | 9/28/26 | [Raymond J. Boutin (D-Lowell)](https://www.ocpf.us/Filers/Index?cpfId=19892) | City Councilor | Lowell | Sokhary Chan Chau (D-Lowell) |  |

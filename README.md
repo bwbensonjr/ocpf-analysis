@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 10/7/26 | [Steven Comei (U-Haverhill)](https://www.ocpf.us/Filers/Index?cpfId=19898) | City Councilor | Haverhill | Ralph T. Basiliere (D-Haverhill) |  |
 | 10/6/26 | [Warren A. Samuels (U-NEW BEDFORD)](https://www.ocpf.us/Filers/Index?cpfId=19897) | City Councilor | New Bedford | Ian Abreu (D-New Bedford) |  |
 | 10/2/26 | [William Falcetano (R-Gloucester)](https://www.ocpf.us/Filers/Index?cpfId=19896) | Governor's Council | 5th District | Eunice Delice Zeigler (D-Methuen) |  |
 | 9/28/26 | [Diego Leonardo (U-Lawrence)](https://www.ocpf.us/Filers/Index?cpfId=19894) | House | 16th Essex | Francisco Paulino (D-Methuen) |  |

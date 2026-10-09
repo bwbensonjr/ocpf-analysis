@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 10/8/26 | [Maria Desposito (U-Malden)](https://www.ocpf.us/Filers/Index?cpfId=19899) | City Councilor | Malden | Paul A. Condon (D-Malden) |  |
 | 10/7/26 | [Steven Comei (U-Haverhill)](https://www.ocpf.us/Filers/Index?cpfId=19898) | City Councilor | Haverhill | Ralph T. Basiliere (D-Haverhill) |  |
 | 10/6/26 | [Warren A. Samuels (U-NEW BEDFORD)](https://www.ocpf.us/Filers/Index?cpfId=19897) | City Councilor | New Bedford | Ian Abreu (D-New Bedford) |  |
 | 10/2/26 | [William Falcetano (R-Gloucester)](https://www.ocpf.us/Filers/Index?cpfId=19896) | Governor's Council | 5th District | Eunice Delice Zeigler (D-Methuen) |  |

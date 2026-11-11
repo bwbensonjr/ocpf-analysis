@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 11/10/26 | [Giancarlo Marazzo-Henry (U-Cambridge)](https://www.ocpf.us/Filers/Index?cpfId=19907) | City Councilor | Cambridge | Ayah Al-Zubi (D-Cambridge) |  |
 | 11/2/26 | [Julie L. Bowditch (D-Worcester)](https://www.ocpf.us/Filers/Index?cpfId=19906) | City Councilor | Worcester | Morris Bergman (D-Worcester) |  |
 | 10/30/26 | [Robert Barcellos (U-Fall River)](https://www.ocpf.us/Filers/Index?cpfId=19905) | Mayoral | Fall River | Paul E. Coogan (U-Fall River) |  |
 | 10/27/26 | [Daniel Wong (D-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19903) | City Councilor | Somerville | Jesse Clingan (D-Somerville) |  |

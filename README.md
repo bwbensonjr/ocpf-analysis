@@ -11,6 +11,8 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 11/13/26 | [Aaron Goldman (D-West Newton)](https://www.ocpf.us/Filers/Index?cpfId=19909) | City Councilor | Newton | Susan Albright (U-Newton) |  |
+| 11/12/26 | [Rachel Pearson (D-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19910) | City Councilor | Boston | Elizabeth A. Breadon (U-Brighton) |  |
 | 11/12/26 | [Elizabeth Clark Polner Hudson (U-Cambridge)](https://www.ocpf.us/Filers/Index?cpfId=19908) | City Councilor | Cambridge | Ayah Al-Zubi (D-Cambridge) |  |
 | 11/12/26 | [Maydee Morales (D-Worcester)](https://www.ocpf.us/Filers/Index?cpfId=18169) | City Councilor | Worcester | Morris Bergman (D-Worcester) |  |
 | 11/10/26 | [Giancarlo Marazzo-Henry (U-Cambridge)](https://www.ocpf.us/Filers/Index?cpfId=19907) | City Councilor | Cambridge | Ayah Al-Zubi (D-Cambridge) |  |

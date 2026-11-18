@@ -11,6 +11,8 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 11/17/26 | [Siobhan Vincenza McDonough (U-Cambridge)](https://www.ocpf.us/Filers/Index?cpfId=19912) | City Councilor | Cambridge | Ayah Al-Zubi (D-Cambridge) |  |
+| 11/17/26 | [Timothy McAlister (D-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19911) | City Councilor | Somerville | Jesse Clingan (D-Somerville) |  |
 | 11/13/26 | [Aaron Goldman (D-West Newton)](https://www.ocpf.us/Filers/Index?cpfId=19909) | City Councilor | Newton | Susan Albright (U-Newton) |  |
 | 11/12/26 | [Rachel Pearson (D-Boston)](https://www.ocpf.us/Filers/Index?cpfId=19910) | City Councilor | Boston | Elizabeth A. Breadon (U-Brighton) |  |
 | 11/12/26 | [Elizabeth Clark Polner Hudson (U-Cambridge)](https://www.ocpf.us/Filers/Index?cpfId=19908) | City Councilor | Cambridge | Ayah Al-Zubi (D-Cambridge) |  |

@@ -11,6 +11,7 @@ to an exaplanatory article or website, if available.
 
 | Date | Candidate | Office | District | Incumbent | Reason |
 | --- | --- | --- | --- | --- | --- |
+| 11/23/26 | [William A. Flanagan (R-Fall River)](https://www.ocpf.us/Filers/Index?cpfId=15265) | Mayoral | Fall River | Paul E. Coogan (U-Fall River) |  |
 | 11/18/26 | [sumaya yeasmin (D-Cambridge)](https://www.ocpf.us/Filers/Index?cpfId=19913) | City Councilor | Cambridge | Ayah Al-Zubi (D-Cambridge) |  |
 | 11/17/26 | [Siobhan Vincenza McDonough (U-Cambridge)](https://www.ocpf.us/Filers/Index?cpfId=19912) | City Councilor | Cambridge | Ayah Al-Zubi (D-Cambridge) |  |
 | 11/17/26 | [Timothy McAlister (D-Somerville)](https://www.ocpf.us/Filers/Index?cpfId=19911) | City Councilor | Somerville | Jesse Clingan (D-Somerville) |  |
